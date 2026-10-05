@@ -2,7 +2,7 @@
 
 <p class="meta">Effective October 5, 2026</p>
 
-These terms are an agreement between you and Matthew Aliseo ("we", "us"), the developer of Follow Thru. By downloading or using Follow Thru, you agree to them. If you don't agree, don't use the app. If you're setting up Follow Thru for a child, you agree to these terms for yourself and on the child's behalf, and you're responsible for the child's use.
+These terms are an agreement between you and Stepping Stone Elite LLC ("we", "us"), the developer of Follow Thru. By downloading or using Follow Thru, you agree to them. If you don't agree, don't use the app. If you're setting up Follow Thru for a child, you agree to these terms for yourself and on the child's behalf, and you're responsible for the child's use.
 
 **1. Apple.** These terms are between you and us, not Apple. Apple isn't responsible for Follow Thru or its content. Your use must also follow the Usage Rules in Apple's Media Services Terms and Conditions. We grant you a limited, non-transferable, revocable license to use Follow Thru on Apple devices you own or control, as those Usage Rules allow. Apple has no duty to provide maintenance or support for Follow Thru. If Follow Thru fails to conform to any warranty that applies, you may notify Apple, and Apple will refund the purchase price, if any. To the fullest extent the law allows, Apple has no other warranty obligation for Follow Thru. We, not Apple, are responsible for any claims about Follow Thru, including product liability claims, claims that it fails to meet a legal or regulatory requirement, and consumer protection, privacy or similar claims, and for investigating, defending and settling any claim that Follow Thru infringes someone's intellectual property. Apple and its subsidiaries are third-party beneficiaries of these terms and may enforce them against you. You confirm that you aren't located in a country subject to a U.S. government embargo or designated as a "terrorist supporting" country, and that you aren't on any U.S. government list of prohibited or restricted parties.
 
@@ -30,4 +30,4 @@ These terms are an agreement between you and Matthew Aliseo ("we", "us"), the de
 
 **13. Changes.** We may update these terms. We'll change the date above and tell you in the app before material changes take effect. If you keep using Follow Thru after that, you accept the updated terms.
 
-**14. Contact.** Matthew Aliseo, [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), (980) 330-1415.
+**14. Contact.** Stepping Stone Elite LLC, [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), (980) 330-1415.

@@ -2,7 +2,7 @@
 
 <p class="meta">Effective October 5, 2026</p>
 
-Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in North Carolina ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or (980) 330-1415.
+Follow Thru is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or (980) 330-1415.
 
 <div class="callout" markdown="1">
 **The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in Follow Thru stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
@@ -72,7 +72,7 @@ We don't knowingly receive personal information from children under 13. If we le
 Before a child joins, the parent or guardian's phone shows this notice and asks them to agree:
 
 <div class="callout" markdown="1">
-Follow Thru is made by Matthew Aliseo. Here's what happens when your child uses it:
+Follow Thru is made by Stepping Stone Elite LLC. Here's what happens when your child uses it:
 
 - Your child's phone will send you their first name, tasks, a task photo when you ask for one or set a task to always ask, camera workouts they share, minutes, allowance totals and activity alerts.
 - It all travels through iCloud and is stored in your iCloud account. We can't see it, and we don't run servers, ads or analytics.
