@@ -30,4 +30,4 @@ These terms are an agreement between you and Matthew Aliseo ("we", "us"), the de
 
 **13. Changes.** We may update these terms. We'll change the date above and tell you in the app before material changes take effect. If you keep using Follow Thru after that, you accept the updated terms.
 
-**14. Contact.** Matthew Aliseo, 352 Ovada Ave, Lexington, NC 27295, [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), (980) 330-1415.
+**14. Contact.** Matthew Aliseo, [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).

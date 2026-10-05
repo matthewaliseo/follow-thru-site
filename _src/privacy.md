@@ -2,7 +2,7 @@
 
 <p class="meta">Effective October 5, 2026</p>
 
-Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in North Carolina ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), 352 Ovada Ave, Lexington, NC 27295, or (980) 330-1415.
+Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in North Carolina ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
 
 <div class="callout" markdown="1">
 **The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in Follow Thru stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
@@ -63,7 +63,7 @@ On a child's phone:
 - The child can't use share codes, invite anyone, pick from Contacts, or see purchases. The child's phone never records camera video.
 - Photos in the family group are deleted from iCloud after 90 days. Everything else stays until the parent or guardian removes the child or deletes the group.
 
-Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or 352 Ovada Ave, Lexington, NC 27295.
+Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
 
 We don't knowingly receive personal information from children under 13. If we learn that a child under 13 has sent us any information, we'll delete it.
 
