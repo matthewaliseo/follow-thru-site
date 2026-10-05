@@ -13,7 +13,7 @@ Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in
 | Information | Where it's kept | Who can see it |
 |---|---|---|
 | Your first name | Your iPhone. If you link with someone, it's shown with what you share | You and the people you link with |
-| Age range (optional), and setup answers like "I have a pet" | Your iPhone only. A child's age group is shared with their parent or guardian to suggest rules | Only you, except a child's age group |
+| Your birthday, and optional setup answers like "I have a pet" | Your iPhone only. The birthday is used to work out your age range and for a birthday note, and you can change or remove it in Settings. A child's phone doesn't ask; their parent or guardian picks the child's age group to suggest rules | Only you, except a child's age group |
 | Apps and websites you choose to lock | Your iPhone, through Apple's Screen Time system. Apple gives the app a code for each choice, not the app's name | No one, including us. A linked parent or partner sees only how many items changed |
 | Minutes, history, streak, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
 | Steps and workouts from Apple Health | Read on your iPhone. The app never writes to Apple Health. If you link with someone, they see the minutes you earn | You and the people you link with |
@@ -56,7 +56,7 @@ We don't sell or share personal information, show ads, use analytics or tracking
 
 ## Children
 
-Follow Thru has a child setup for children under 13 and for teens whose parent or guardian manages their phone. A parent or guardian must be present to finish it: Apple asks for the parent or guardian's Apple Account to approve Screen Time access, and the parent or guardian approves the child joining the family group on their own phone. Anyone who tells the app they're under 13 can use only the child setup.
+Follow Thru has a child setup for children under 13 and for teens whose parent or guardian manages their phone. A parent or guardian must be present to finish it: Apple asks for the parent or guardian's Apple Account to approve Screen Time access, and the parent or guardian approves the child joining the family group on their own phone. Anyone whose birthday shows they're under 13 can use only the child setup.
 
 On a child's phone:
 
