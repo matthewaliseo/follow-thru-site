@@ -2,7 +2,7 @@
 
 <p class="meta">Effective October 5, 2026</p>
 
-Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in North Carolina ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
+Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in North Carolina ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or (980) 330-1415.
 
 <div class="callout" markdown="1">
 **The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in Follow Thru stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
