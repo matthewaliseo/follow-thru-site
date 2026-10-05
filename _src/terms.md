@@ -1,6 +1,6 @@
 # Terms of Use
 
-<p class="meta">Effective October 4, 2026</p>
+<p class="meta">Effective October 5, 2026</p>
 
 These terms are an agreement between you and Matthew Aliseo ("we", "us"), the developer of Follow Thru. By downloading or using Follow Thru, you agree to them. If you don't agree, don't use the app. If you're setting up Follow Thru for a child, you agree to these terms for yourself and on the child's behalf, and you're responsible for the child's use.
 
@@ -16,20 +16,18 @@ These terms are an agreement between you and Matthew Aliseo ("we", "us"), the de
 
 **6. Follow Thru Plus and tips.** Plus is an auto-renewing subscription sold through Apple. The price and period are shown before you buy. Payment is charged to your Apple Account. It renews automatically at the then-current price unless you cancel at least 24 hours before the end of the period. You can manage or cancel it in your Apple Account settings, and it stays active until the end of the period you paid for. Refunds are handled by Apple under Apple's policies. Free time on Plus that you earn with a streak or a share code is a promotional benefit, has no cash value, and may be changed or ended at any time. Tips are voluntary one-time contributions that don't unlock anything and aren't refundable except as Apple allows. We may change what's included in Plus or its price. Price changes follow Apple's rules for notice and consent.
 
-**7. Stories you send.** If you send a story, you confirm it's true and yours to share, and that it doesn't include anyone's full name, a child's identifying details, or anything private, unlawful or offensive. You give us a free, worldwide, non-exclusive license to show it in the app, with the name and description you provide, and to edit it for length or privacy. We review stories before showing them, may decline or remove any story, and will remove yours if you ask. You must be at least 18 to send a story.
+**7. Acceptable use.** Don't misuse Follow Thru, including by trying to get around another person's rules or passcode without permission, sending false information to someone in your group, harassing anyone, interfering with iCloud or the app, or reverse engineering the app except as the law allows.
 
-**8. Acceptable use.** Don't misuse Follow Thru, including by trying to get around another person's rules or passcode without permission, sending false information to someone in your group, harassing anyone, interfering with iCloud or the app, or reverse engineering the app except as the law allows.
+**8. Our rights.** Follow Thru, its design, name and logo belong to us or our licensors. These terms don't give you any rights to them except the license above.
 
-**9. Our rights.** Follow Thru, its design, name and logo belong to us or our licensors. These terms don't give you any rights to them except the license above.
+**9. Disclaimer.** To the fullest extent the law allows, Follow Thru is provided "as is" and "as available", without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose and non-infringement.
 
-**10. Disclaimer.** To the fullest extent the law allows, Follow Thru is provided "as is" and "as available", without warranties of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose and non-infringement.
+**10. Limitation of liability.** To the fullest extent the law allows, we aren't liable for any indirect, incidental, special, consequential or punitive damages, or for lost data, lost time, injury from exercise, or disputes between people in a group. Our total liability for any claim relating to Follow Thru is limited to the greater of the amount you paid for Follow Thru in the 12 months before the claim and $50. Some places don't allow these limits, so they may not apply to you.
 
-**11. Limitation of liability.** To the fullest extent the law allows, we aren't liable for any indirect, incidental, special, consequential or punitive damages, or for lost data, lost time, injury from exercise, or disputes between people in a group. Our total liability for any claim relating to Follow Thru is limited to the greater of the amount you paid for Follow Thru in the 12 months before the claim and $50. Some places don't allow these limits, so they may not apply to you.
+**11. Ending.** You can stop using Follow Thru at any time and delete your information in Settings. We may suspend or stop offering Follow Thru, or any feature, at any time. Sections 3, 5 and 7 to 13 continue after these terms end.
 
-**12. Ending.** You can stop using Follow Thru at any time and delete your information in Settings. We may suspend or stop offering Follow Thru, or any feature, at any time. Sections 3, 5 and 7 to 13 continue after these terms end.
+**12. Law and disputes.** These terms are governed by the laws of the State of North Carolina, without regard to its conflict of laws rules. Any dispute will be brought in the state or federal courts located in Davidson County, North Carolina, and you and we consent to their jurisdiction, except that either of us may bring a claim in small claims court where we live. Nothing in these terms limits rights you have under consumer protection laws that can't be waived.
 
-**13. Law and disputes.** These terms are governed by the laws of the State of North Carolina, without regard to its conflict of laws rules. Any dispute will be brought in the state or federal courts located in Davidson County, North Carolina, and you and we consent to their jurisdiction, except that either of us may bring a claim in small claims court where we live. Nothing in these terms limits rights you have under consumer protection laws that can't be waived.
+**13. Changes.** We may update these terms. We'll change the date above and tell you in the app before material changes take effect. If you keep using Follow Thru after that, you accept the updated terms.
 
-**14. Changes.** We may update these terms. We'll change the date above and tell you in the app before material changes take effect. If you keep using Follow Thru after that, you accept the updated terms.
-
-**15. Contact.** Matthew Aliseo, 352 Ovada Ave, Lexington, NC 27295, [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), (980) 330-1415.
+**14. Contact.** Matthew Aliseo, 352 Ovada Ave, Lexington, NC 27295, [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), (980) 330-1415.

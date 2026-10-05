@@ -14,7 +14,7 @@ Follow Thru locks the apps you choose until you earn time for them with exercise
 
 **How do I add an accountability partner?** Choose Accountability partners, pick how you'll work together, then send the invite link. To check each other, each person sends the other a link.
 
-**How do I earn time?** Walk or work out (counted from Apple Health), do Push Ups, Squats, Jumping Jacks or a Plank in front of the camera, or finish tasks with before and after photos. A daily cap limits how much you can earn.
+**How do I earn time?** Walk or work out (counted from Apple Health), do Push Ups, Squats, Jumping Jacks or a Plank in front of the camera, or finish tasks. If someone checks your tasks, they can ask for a photo of a finished task, or set a task to always ask for one. A daily cap limits how much you can earn.
 
 **How do I unlock apps?** On Home, spend some of your minutes. The apps lock again when the time is up. Ending early refunds the minutes left.
 
@@ -24,7 +24,7 @@ Follow Thru locks the apps you choose until you earn time for them with exercise
 
 **How do I cancel Plus?** Open the iPhone Settings app, tap your name, then Subscriptions, then Follow Thru Plus.
 
-**How do I delete my data?** In Follow Thru, open Settings > Delete all my data. To remove a story you sent, email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
+**How do I delete my data?** In Follow Thru, open Settings > Delete all my data. To have a story sent with an earlier version or a share code removed, email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
 
 **Is Follow Thru medical advice?** No. Talk with a doctor before starting a new exercise routine, and stop if anything hurts. Parents and guardians decide what's right for their children and supervise their exercise.
 

@@ -1,11 +1,11 @@
 # Privacy Policy
 
-<p class="meta">Effective October 4, 2026</p>
+<p class="meta">Effective October 5, 2026</p>
 
 Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in North Carolina ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), 352 Ovada Ave, Lexington, NC 27295, or (980) 330-1415.
 
 <div class="callout" markdown="1">
-**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in Follow Thru stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a story for the Stories screen, a share code when you use a friend's code, and any email you send us.
+**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in Follow Thru stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
 </div>
 
 ## What Follow Thru uses, where it's kept, and who can see it
@@ -16,27 +16,26 @@ Follow Thru is an iPhone app made by Matthew Aliseo, an independent developer in
 | Your birthday, and optional setup answers like "I have a pet" | Your iPhone only. The birthday is used to work out your age range and for a birthday note, and you can change or remove it in Settings. A child's phone doesn't ask; their parent or guardian picks the child's age group to suggest rules | Only you, except a child's age group |
 | Apps and websites you choose to lock | Your iPhone, through Apple's Screen Time system. Apple gives the app a code for each choice, not the app's name | No one, including us. A linked parent or partner sees only how many items changed |
 | Minutes, history, streak, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
-| Steps and workouts from Apple Health | Read on your iPhone. The app never writes to Apple Health. If you link with someone, they see the minutes you earn | You and the people you link with |
-| Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. It isn't used to recognize anyone | No one |
-| Workout time-lapses (Plus) | Your iPhone, and your Photos if you tap Save. Sent to the person who checks your workouts when you share one, or automatically if workouts only count when shared | You, the person who checks you, and anyone you choose to send one to |
-| Task before and after photos | Your iPhone for up to 30 days. If someone checks your tasks, the photos are sent to them through iCloud and deleted from iCloud after 90 days | You and the people who check your tasks |
-| Activity and alerts on a checked phone, such as unlocks, emergency minutes, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
+| Steps and workouts from Apple Health | Read on your iPhone, and your step and workout totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps or workout times |
+| Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. Workouts are never recorded, saved or sent. It isn't used to recognize anyone | No one |
+| Task photos | Only taken on a phone someone checks, and only when the person who approves your tasks asks for a photo, or sets a task to always ask for one. Then you take one photo of the finished task. It is kept on your iPhone for up to 30 days, sent to them through iCloud, and deleted from iCloud after 90 days. A phone nobody checks never takes task photos | You and the people who check your tasks |
+| Activity and alerts on a checked phone, such as unlocks, borrowed minutes, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
 | Payment usernames you enter for Pay now (Venmo or Cash App) | Your iPhone only | Only you |
 | A contact you pick to invite | Apple's contact picker gives the app only the one email address or phone number you choose. The app doesn't read or keep your contacts | The person you invite |
-| Stories you send | Our app's public iCloud database, with the iCloud ID Apple attaches to the record | Us. Everyone in the app, once we approve it |
+| Stories sent with earlier versions | Earlier versions let adults send us a story. The app no longer shows or accepts stories. Any a phone sent are still deleted by Delete all my data | Us |
 | Share codes | Your code is kept on your iPhone, including after you delete the app, so a code can't be used twice. When you use a friend's code, a record with that code is saved in our app's public iCloud database | Us, and the phone that owns the code |
 
 ## Linking with family or a partner
 
 Follow Thru uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a partner) invites people by their Apple Account email or phone number, and only that Apple Account can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
 
-When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts and time-lapses you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. For an adult who is checked by a partner, the partner can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
+When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. For an adult who is checked by a partner, the partner can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
 
 The group owner can remove anyone, and anyone can leave a group in Settings. Leaving stops sharing from then on. What was already shared stays in the owner's group until the owner deletes it, or until it expires under "How long information is kept".
 
 ## Apple Health
 
-Follow Thru only reads steps and workouts, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone except the people you link with, as described above.
+Follow Thru only reads steps and workouts, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone. The people you link with see the minutes you earn, not your health data.
 
 ## Notifications
 
@@ -48,7 +47,7 @@ Follow Thru Plus is an auto-renewing subscription, and tips are one-time purchas
 
 ## Links to other services
 
-Donation links open the charity's website, and Pay now opens Venmo or Cash App. Those services have their own privacy policies. Follow Thru isn't affiliated with them.
+Pay now opens Venmo or Cash App. Those services have their own privacy policies. Follow Thru isn't affiliated with them.
 
 ## What we don't do
 
@@ -60,13 +59,13 @@ Follow Thru has a child setup for children under 13 and for teens whose parent o
 
 On a child's phone:
 
-- The child's first name, tasks, task photos, workout time-lapses, minutes, allowance totals and activity go only to the parent or guardian, and to anyone the parent or guardian adds to the family group, such as a second parent. They travel through iCloud and are kept in the parent or guardian's iCloud account. We can't see them.
-- The child can't send us stories, use share codes, invite anyone, pick from Contacts, send time-lapses outside the family, or see purchases or donations.
-- Photos and time-lapses in the family group are deleted from iCloud after 90 days. Everything else stays until the parent or guardian removes the child or deletes the group.
+- The child's first name, tasks, task photos, workouts they share, minutes, allowance totals and activity go only to the parent or guardian, and to anyone the parent or guardian adds to the family group, such as a second parent or guardian. They travel through iCloud and are kept in the parent or guardian's iCloud account. We can't see them.
+- The child can't use share codes, invite anyone, pick from Contacts, or see purchases. The child's phone never records camera video.
+- Photos in the family group are deleted from iCloud after 90 days. Everything else stays until the parent or guardian removes the child or deletes the group.
 
 Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or 352 Ovada Ave, Lexington, NC 27295.
 
-We don't knowingly receive personal information from children under 13. If we learn that a child under 13 has sent us a story or any other information, we'll delete it.
+We don't knowingly receive personal information from children under 13. If we learn that a child under 13 has sent us any information, we'll delete it.
 
 ### What parents and guardians see in the app
 
@@ -75,24 +74,24 @@ Before a child joins, the parent or guardian's phone shows this notice and asks 
 <div class="callout" markdown="1">
 Follow Thru is made by Matthew Aliseo. Here's what happens when your child uses it:
 
-- Your child's phone will send you their first name, tasks, before and after photos, workout time-lapses (with Plus), minutes, allowance totals and activity alerts.
+- Your child's phone will send you their first name, tasks, a task photo when you ask for one or set a task to always ask, camera workouts they share, minutes, allowance totals and activity alerts.
 - It all travels through iCloud and is stored in your iCloud account. We can't see it, and we don't run servers, ads or analytics.
-- Photos and time-lapses are deleted from iCloud after 90 days. You can remove your child or delete the group at any time to delete the rest.
+- Photos are deleted from iCloud after 90 days. Workouts are never recorded. You can remove your child or delete the group at any time to delete the rest.
 - Your child can't contact us, share outside the family, or make purchases in Follow Thru.
 </div>
 
 ## How long information is kept
 
 - **On your iPhone:** until you delete it, use Delete all my data, or delete the app. Task photos are kept for up to 30 days.
-- **In a family or partner group:** task photos and time-lapses are deleted after 90 days. Other shared information stays until the group's owner removes the person or deletes the group.
-- **Stories:** until you ask us to remove them, and in any case we review stories every year and remove any older than two years.
+- **In a family or partner group:** task photos are deleted after 90 days. Other shared information stays until the group's owner removes the person or deletes the group.
+- **Stories sent with earlier versions:** until you ask us to remove them or use Delete all my data, and in any case we remove any older than two years.
 - **Share-code records:** deleted within 90 days after they are used.
 - **Your share-code history in your iPhone's keychain:** kept after the app is deleted so a code can't be used twice. Delete all my data removes it.
 - **Emails to support:** deleted within two years after your question is resolved.
 
 ## Deleting your information
 
-- In Follow Thru, open Settings > Delete all my data. It erases the app's information on your iPhone, deletes any groups you own (with everything in them), leaves groups you've joined, and deletes stories and share-code records you sent from this iPhone.
+- In Follow Thru, open Settings > Delete all my data. It erases the app's information on your iPhone, deletes any groups you own (with everything in them), leaves groups you've joined, and deletes share-code records, and any stories an earlier version sent, from this iPhone.
 - Deleting the app erases what's on your iPhone, except the share-code history described above.
 - You can also manage Follow Thru's iCloud information in the iPhone Settings app: tap your name, then iCloud, then Manage Account Storage (the wording varies by iOS version).
 - To have a story or share code removed, or for any other request, email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net). We'll respond within 30 days.
