@@ -28,10 +28,21 @@ Follow Thru locks the apps you choose until you earn time for them with exercise
 
 **Is Follow Thru medical advice?** No. Talk with a doctor before starting a new exercise routine, and stop if anything hurts. Parents and guardians decide what's right for their children and supervise their exercise.
 
+## Setting up Apple's Screen Time
+
+**How does Follow Thru use Apple's Screen Time?** Follow Thru locks apps through Apple's Screen Time. On a child's iPhone, a parent or guardian approves Follow Thru's Screen Time access with their own Apple Account during setup. That approval is what lets Follow Thru lock apps, and with the child in the parent or guardian's Family Sharing group, the child can't delete Follow Thru or turn off its access without them. In the app, Settings > Apple's Screen Time > Show Me How walks through everything below.
+
+**What should stay on?** Each child in your Family Sharing group, with Screen Time turned on for them (iPhone Settings > Screen Time > your child's name, or Settings > Family > your child's name > Screen Time). On your own iPhone, keep Screen Time on and Follow Thru's access turned on.
+
+**Which of Apple's settings should I turn off?** For the apps Follow Thru manages, we recommend turning off Apple's own App Limits and Downtime (Settings > Screen Time > your child's name > App Limits, and > Downtime). Apple's limits and Follow Thru's locks both apply, and the stricter one wins, so if an Apple limit has run out, minutes earned in Follow Thru can't open that app. This is the most common reason an unlocked app stays closed. It's a recommendation, not a requirement: keeping both works, as long as you expect either one to close the app. If you keep Downtime, add Follow Thru to Always Allowed so it still opens to earn minutes. Adults using Just for Me can do the same for their own limits, in Settings > Screen Time.
+
+**What can stay on for safety?** Apple's Content & Privacy Restrictions don't conflict with Follow Thru, for example iTunes & App Store Purchases > Deleting Apps: Don't Allow, and age ratings. Ask to Buy and Communication Limits can stay on too.
+
 ## Troubleshooting
 
 - **Steps aren't counting:** open iPhone Settings, then Health, Data Access & Devices, Follow Thru, and turn on Steps and Workouts.
 - **Apps aren't locking:** open iPhone Settings, then Screen Time, and make sure Screen Time is on and Follow Thru has access.
+- **An app stays closed after unlocking:** Apple's own App Limits or Downtime may cover it. See Setting up Apple's Screen Time above.
 - **The camera isn't counting reps:** stand the phone up so your whole body is in view. For a Plank, put the phone on the floor about 8 feet away, to your side.
 - **The invite link won't open:** both phones need Follow Thru installed and must be signed in to iCloud.
 - **Approvals aren't arriving:** open the app on both phones and pull down to refresh.
