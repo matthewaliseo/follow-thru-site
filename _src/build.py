@@ -9,9 +9,9 @@ import markdown
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 PAGES = [
-    ("privacy", "Privacy Policy", "How Follow Thru handles your information."),
-    ("terms", "Terms of Use", "The terms for using Follow Thru."),
-    ("support", "Support", "Help with Follow Thru."),
+    ("privacy", "Privacy Policy", "How CounterWait handles your information."),
+    ("terms", "Terms of Use", "The terms for using CounterWait."),
+    ("support", "Support", "Help with CounterWait."),
 ]
 
 TEMPLATE = """<!doctype html>
@@ -26,7 +26,7 @@ TEMPLATE = """<!doctype html>
 </head>
 <body>
 <header class="site">
-  <a class="brand" href="./"><img src="icon.svg" alt="" width="32" height="32">Follow Thru</a>
+  <a class="brand" href="./"><img src="icon.svg" alt="" width="32" height="32">CounterWait</a>
   <nav>
     <a href="support.html"{support}>Support</a>
     <a href="privacy.html"{privacy}>Privacy</a>
@@ -37,7 +37,7 @@ TEMPLATE = """<!doctype html>
 {body}
 </main>
 <footer class="site">
-  <p>Follow Thru is made by Matthew Aliseo in North Carolina. <a href="mailto:matthewaliseo@steppingstonegroup.net">matthewaliseo@steppingstonegroup.net</a></p>
+  <p>CounterWait is made by Matthew Aliseo in North Carolina. <a href="mailto:matthewaliseo@steppingstonegroup.net">matthewaliseo@steppingstonegroup.net</a></p>
 </footer>
 </body>
 </html>
@@ -55,4 +55,4 @@ def render(name, md_text, title, description):
 
 for name, title, description in PAGES:
     text = (ROOT / "_src" / f"{name}.md").read_text()
-    (ROOT / f"{name}.html").write_text(render(name, text, f"{title} | Follow Thru", description))
+    (ROOT / f"{name}.html").write_text(render(name, text, f"{title} | CounterWait", description))

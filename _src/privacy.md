@@ -2,13 +2,13 @@
 
 <p class="meta">Effective October 6, 2026</p>
 
-Follow Thru is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or (980) 330-1415.
+CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or (980) 330-1415.
 
 <div class="callout" markdown="1">
-**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in Follow Thru stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
+**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in CounterWait stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
 </div>
 
-## What Follow Thru uses, where it's kept, and who can see it
+## What CounterWait uses, where it's kept, and who can see it
 
 | Information | Where it's kept | Who can see it |
 |---|---|---|
@@ -27,7 +27,7 @@ Follow Thru is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 
 ## Linking with family or a partner
 
-Follow Thru uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a partner) invites people by their Apple Account email or phone number, and only that Apple Account can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
+CounterWait uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a partner) invites people by their Apple Account email or phone number, and only that Apple Account can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
 
 When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. For an adult who is checked by a partner, the partner can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
 
@@ -35,7 +35,7 @@ The group owner can remove anyone, and anyone can leave a group in Settings. Lea
 
 ## Apple Health
 
-Follow Thru only reads steps and workouts, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone. The people you link with see the minutes you earn, not your health data.
+CounterWait only reads steps and workouts, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone. The people you link with see the minutes you earn, not your health data.
 
 ## Notifications
 
@@ -43,11 +43,11 @@ Notifications about tasks, decisions, payouts and weekly summaries are delivered
 
 ## Purchases
 
-Follow Thru Plus is an auto-renewing subscription, and tips are one-time purchases. Apple processes all payments. We never see your card or payment details, and we only get Apple's sales reports. Subscription terms are in our [Terms of Use](terms.html). The allowance tracker only records amounts. Follow Thru never holds, sends or receives money.
+CounterWait Plus is an auto-renewing subscription, and tips are one-time purchases. Apple processes all payments. We never see your card or payment details, and we only get Apple's sales reports. Subscription terms are in our [Terms of Use](terms.html). The allowance tracker only records amounts. CounterWait never holds, sends or receives money.
 
 ## Links to other services
 
-Pay now opens Venmo or Cash App. Those services have their own privacy policies. Follow Thru isn't affiliated with them.
+Pay now opens Venmo or Cash App. Those services have their own privacy policies. CounterWait isn't affiliated with them.
 
 ## What we don't do
 
@@ -55,7 +55,7 @@ We don't sell or share personal information, show ads, use analytics or tracking
 
 ## Children
 
-Follow Thru has a child setup for children under 13 and for teens whose parent or guardian manages their phone. A parent or guardian must be present to finish it: Apple asks for the parent or guardian's Apple Account to approve Screen Time access, and the parent or guardian approves the child joining the family group on their own phone. Anyone whose birthday shows they're under 13 can use only the child setup.
+CounterWait has a child setup for children under 13 and for teens whose parent or guardian manages their phone. A parent or guardian must be present to finish it: Apple asks for the parent or guardian's Apple Account to approve Screen Time access, and the parent or guardian approves the child joining the family group on their own phone. Anyone whose birthday shows they're under 13 can use only the child setup.
 
 On a child's phone:
 
@@ -72,12 +72,12 @@ We don't knowingly receive personal information from children under 13. If we le
 Before a child joins, the parent or guardian's phone shows this notice and asks them to agree:
 
 <div class="callout" markdown="1">
-Follow Thru is made by Stepping Stone Elite LLC. Here's what happens when your child uses it:
+CounterWait is made by Stepping Stone Elite LLC. Here's what happens when your child uses it:
 
 - Your child's phone will send you their first name, tasks, a task photo when you ask for one or set a task to always ask, camera workouts they share, minutes, allowance totals and activity alerts.
 - It all travels through iCloud and is stored in your iCloud account. We can't see it, and we don't run servers, ads or analytics.
 - Photos are deleted from iCloud after 90 days. Workouts are never recorded. You can remove your child or delete the group at any time to delete the rest.
-- Your child can't contact us, share outside the family, or make purchases in Follow Thru.
+- Your child can't contact us, share outside the family, or make purchases in CounterWait.
 </div>
 
 ## How long information is kept
@@ -91,9 +91,9 @@ Follow Thru is made by Stepping Stone Elite LLC. Here's what happens when your c
 
 ## Deleting your information
 
-- In Follow Thru, open Settings > Delete all my data. It erases the app's information on your iPhone, deletes any groups you own (with everything in them), leaves groups you've joined, and deletes share-code records, and any stories an earlier version sent, from this iPhone.
+- In CounterWait, open Settings > Delete all my data. It erases the app's information on your iPhone, deletes any groups you own (with everything in them), leaves groups you've joined, and deletes share-code records, and any stories an earlier version sent, from this iPhone.
 - Deleting the app erases what's on your iPhone, except the share-code history described above.
-- You can also manage Follow Thru's iCloud information in the iPhone Settings app: tap your name, then iCloud, then Manage Account Storage (the wording varies by iOS version).
+- You can also manage CounterWait's iCloud information in the iPhone Settings app: tap your name, then iCloud, then Manage Account Storage (the wording varies by iOS version).
 - To have a story or share code removed, or for any other request, email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net). We'll respond within 30 days.
 
 ## Security
@@ -106,11 +106,11 @@ Depending on where you live, you may have the right to know, access, correct or 
 
 ## Consumer health data
 
-Follow Thru reads steps and workouts from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
+CounterWait reads steps and workouts from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
 
-## Where Follow Thru is offered
+## Where CounterWait is offered
 
-Follow Thru is offered in the United States. Information in iCloud is stored by Apple under Apple's own privacy policy.
+CounterWait is offered in the United States. Information in iCloud is stored by Apple under Apple's own privacy policy.
 
 ## Changes
 
