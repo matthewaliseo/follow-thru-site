@@ -3,7 +3,7 @@
 CounterWait locks the apps you choose until you earn time for them with exercise and tasks. Families and accountability partners can approve each other's tasks.
 
 <div class="callout" markdown="1">
-**Need help?** Email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net?subject=Follow%20Thru%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
+**Need help?** Email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
 </div>
 
 ## Common questions
