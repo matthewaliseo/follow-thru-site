@@ -20,6 +20,8 @@ Follow Thru locks the apps you choose until you earn time for them with exercise
 
 **What is the allowance tracker?** With Plus, tasks can pay money as well as time. The app keeps a record of what's owed, and you pay outside the app in cash or with any payment app. Follow Thru never moves real money.
 
+**Does it work on Android or iPad?** Not yet. Follow Thru locks apps through Apple's Screen Time and syncs through iCloud, so everyone in the family needs an iPhone for now. We know plenty of families mix iPhones and Android phones. We're a small, independent developer, and supporting Android well means building and maintaining a second app, which we can take on once there's enough support to sustain it. iPad support is planned first.
+
 **I forgot the parent/guardian passcode.** We can't see or reset passcodes, because they're never sent to us. Email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) and we'll walk you through starting over on the child's phone.
 
 **How do I cancel Plus?** Open the iPhone Settings app, tap your name, then Subscriptions, then Follow Thru Plus.
