@@ -58,3 +58,6 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 .links a { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; text-decoration: none; color: var(--ink); }
 .links a strong { display: block; color: var(--accent); }
 .links a span { color: var(--ink-2); font-size: 15px; }
+
+.dedication { text-align: center; margin-top: 1.5rem; opacity: 0.75; font-size: 0.9em; }
+.dedication abbr { text-decoration: none; cursor: help; }
