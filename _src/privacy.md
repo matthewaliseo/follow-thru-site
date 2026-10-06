@@ -15,15 +15,14 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 | Your first name | Your iPhone. If you link with someone, it's shown with what you share | You and the people you link with |
 | Your birthday, and optional setup answers like "I have a pet" | Your iPhone only. The birthday is used to work out your age range and for a birthday note, and you can change or remove it in Settings. A child's phone doesn't ask; their parent or guardian picks the child's age group to suggest rules | Only you, except a child's age group |
 | Apps and websites you choose to lock | Your iPhone, through Apple's Screen Time system. Apple gives the app a code for each choice, not the app's name | No one, including us. A linked parent or partner sees only how many items changed |
-| Minutes, history, streak, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
+| Minutes, history, weekly goal, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
 | Steps and workouts from Apple Health | Read on your iPhone, and your step and workout totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps or workout times |
 | Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. Workouts are never recorded, saved or sent. It isn't used to recognize anyone | No one |
 | Task photos | Only taken on a phone someone checks, and only when the person who approves your tasks asks for a photo, or sets a task to always ask for one. Then you take one photo of the finished task. It is kept on your iPhone for up to 30 days, sent to them through iCloud, and deleted from iCloud after 90 days. A phone nobody checks never takes task photos | You and the people who check your tasks |
-| Activity and alerts on a checked phone, such as unlocks, borrowed minutes, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
-| Payment usernames you enter for Pay now (Venmo or Cash App) | Your iPhone only | Only you |
+| Activity and alerts on a checked phone, such as unlocks, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
 | A contact you pick to invite | Apple's contact picker gives the app only the one email address or phone number you choose. The app doesn't read or keep your contacts | The person you invite |
 | Stories sent with earlier versions | Earlier versions let adults send us a story. The app no longer shows or accepts stories. Any a phone sent are still deleted by Delete all my data | Us |
-| Share codes | Your code is kept on your iPhone, including after you delete the app, so a code can't be used twice. When you use a friend's code, a record with that code is saved in our app's public iCloud database | Us, and the phone that owns the code |
+| Share codes (test versions before October 2026 only) | Your code is kept on your iPhone, including after you delete the app, so a code can't be used twice. When you use a friend's code, a record with that code is saved in our app's public iCloud database | Us, and the phone that owns the code |
 
 ## Linking with family or a partner
 
@@ -44,10 +43,6 @@ Notifications about tasks, decisions, payouts and weekly summaries are delivered
 ## Purchases
 
 CounterWait Plus is an auto-renewing subscription, and tips are one-time purchases. Apple processes all payments. We never see your card or payment details, and we only get Apple's sales reports. Subscription terms are in our [Terms of Use](terms.html). The allowance tracker only records amounts. CounterWait never holds, sends or receives money.
-
-## Links to other services
-
-Pay now opens Venmo or Cash App. Those services have their own privacy policies. CounterWait isn't affiliated with them.
 
 ## What we don't do
 
