@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<p class="meta">Effective October 5, 2026</p>
+<p class="meta">Effective October 6, 2026</p>
 
 Follow Thru is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or (980) 330-1415.
 
@@ -63,7 +63,7 @@ On a child's phone:
 - The child can't use share codes, invite anyone, pick from Contacts, or see purchases. The child's phone never records camera video.
 - Photos in the family group are deleted from iCloud after 90 days. Everything else stays until the parent or guardian removes the child or deletes the group.
 
-Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
+Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net). Our full contact details are at the end of this policy.
 
 We don't knowingly receive personal information from children under 13. If we learn that a child under 13 has sent us any information, we'll delete it.
 
@@ -115,3 +115,10 @@ Follow Thru is offered in the United States. Information in iCloud is stored by 
 ## Changes
 
 If we change this policy, we'll update the date at the top and tell you in the app before the change takes effect. If a change affects how children's information is handled, we'll ask parents and guardians to agree again first.
+
+## Contact
+
+Stepping Stone Elite LLC<br>
+352 Ovada Ave, Lexington, NC 27295<br>
+(980) 330-1415<br>
+[matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net)
