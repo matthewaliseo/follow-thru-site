@@ -53,6 +53,7 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 .hero { text-align: center; padding: 40px 0 8px; }
 .hero img { width: 120px; height: 120px; border-radius: 27px; box-shadow: 0 6px 24px rgba(43, 30, 74, 0.16); }
 .hero h1 { margin-top: 20px; }
+.hero .tagline { color: var(--accent, #F26B3A); font-weight: 700; font-size: 22px; margin-top: 2px; }
 .hero p { color: var(--ink-2); font-size: 19px; margin: 6px auto 0; max-width: 520px; }
 .links { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 36px; }
 .links a { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; text-decoration: none; color: var(--ink); }
