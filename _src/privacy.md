@@ -5,7 +5,7 @@
 CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) or (980) 330-1415.
 
 <div class="callout" markdown="1">
-**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in CounterWait stays on your iPhone. When you link with family or an accountability partner, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
+**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in CounterWait stays on your iPhone. When you link with family or an accountability buddy, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
 </div>
 
 ## What CounterWait uses, where it's kept, and who can see it
@@ -14,7 +14,7 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 |---|---|---|
 | Your first name | Your iPhone. If you link with someone, it's shown with what you share | You and the people you link with |
 | Your birthday, and optional setup answers like "I have a pet" | Your iPhone only. The birthday is used to work out your age range and for a birthday note, and you can change or remove it in Settings. A child's phone doesn't ask; their parent or guardian picks the child's age group to suggest rules | Only you, except a child's age group |
-| Apps and websites you choose to lock | Your iPhone, through Apple's Screen Time system. Apple gives the app a code for each choice, not the app's name | No one, including us. A linked parent or partner sees only how many items changed |
+| Apps and websites you choose to lock | Your iPhone, through Apple's Screen Time system. Apple gives the app a code for each choice, not the app's name | No one, including us. A linked parent or buddy sees only how many items changed |
 | Minutes, history, weekly goal, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
 | Steps and workouts from Apple Health | Read on your iPhone, and your step and workout totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps or workout times |
 | Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. Workouts are never recorded, saved or sent. It isn't used to recognize anyone | No one |
@@ -24,11 +24,11 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 | Stories sent with earlier versions | Earlier versions let adults send us a story. The app no longer shows or accepts stories. Any a phone sent are still deleted by Delete all my data | Us |
 | Share codes (test versions before October 2026 only) | Your code is kept on your iPhone, including after you delete the app, so a code can't be used twice. When you use a friend's code, a record with that code is saved in our app's public iCloud database | Us, and the phone that owns the code |
 
-## Linking with family or a partner
+## Linking with family or a buddy
 
-CounterWait uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a partner) invites people by their Apple Account email or phone number, and only that Apple Account can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
+CounterWait uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a buddy) invites people by their Apple Account email or phone number, and only that Apple Account can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
 
-When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. For an adult who is checked by a partner, the partner can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
+When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. For an adult who is checked by a buddy, the buddy can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
 
 The group owner can remove anyone, and anyone can leave a group in Settings. Leaving stops sharing from then on. What was already shared stays in the owner's group until the owner deletes it, or until it expires under "How long information is kept".
 
@@ -78,7 +78,7 @@ CounterWait is made by Stepping Stone Elite LLC. Here's what happens when your c
 ## How long information is kept
 
 - **On your iPhone:** until you delete it, use Delete all my data, or delete the app. Task photos are kept for up to 30 days.
-- **In a family or partner group:** task photos are deleted after 90 days. Other shared information stays until the group's owner removes the person or deletes the group.
+- **In a family or buddy group:** task photos are deleted after 90 days. Other shared information stays until the group's owner removes the person or deletes the group.
 - **Stories sent with earlier versions:** until you ask us to remove them or use Delete all my data, and in any case we remove any older than two years.
 - **Share-code records:** deleted within 90 days after they are used.
 - **Your share-code history in your iPhone's keychain:** kept after the app is deleted so a code can't be used twice. Delete all my data removes it.

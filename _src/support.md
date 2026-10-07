@@ -1,6 +1,6 @@
 # Support
 
-CounterWait locks the apps you choose until you earn time for them with exercise and tasks. Families and accountability partners can approve each other's tasks.
+CounterWait locks the apps you choose until you earn time for them with exercise and tasks. Families and accountability buddies can approve each other's tasks.
 
 <div class="callout" markdown="1">
 **Need help?** Email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
@@ -10,9 +10,9 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 
 **How do I set up a family?** On the parent or guardian's iPhone, choose Family, then "I'm a parent/guardian setting up our family". Then, in the Family tab, invite your child with their Apple Account email or phone number. On the child's iPhone, with CounterWait installed and a parent or guardian present, choose "I'm the child" and open the invite. Locking a child's apps needs Apple Family Sharing with the child in your family.
 
-**Can my spouse or partner help?** Yes. Invite them from the Family tab. On their iPhone, they choose "I'm a parent/guardian joining my spouse or partner" and open the invite. You'll both get approvals.
+**Can my co-parent/guardian help?** Yes. Invite them from the Family tab. On their iPhone, they choose "I'm a Parent/Guardian Joining My Co-Parent/Guardian" and open the invite. You'll both get approvals.
 
-**How do I add an accountability partner?** Choose Accountability partners, pick how you'll work together, then send the invite link. To check each other, each person sends the other a link.
+**How do I add an accountability buddy?** Choose Accountability Buddies, pick how you'll work together, then send the invite link. To check each other, each person sends the other a link.
 
 **How do I earn time?** Walk or work out (counted from Apple Health), do Push Ups, Squats or Jumping Jacks in front of the camera, or finish tasks. If someone checks your tasks, they can ask for a photo of a finished task, or set a task to always ask for one. A daily cap limits how much you can earn.
 
