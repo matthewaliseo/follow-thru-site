@@ -14,7 +14,7 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 
 **How do I add an accountability partner?** Choose Accountability partners, pick how you'll work together, then send the invite link. To check each other, each person sends the other a link.
 
-**How do I earn time?** Walk or work out (counted from Apple Health), do Push Ups, Squats, Jumping Jacks or a Plank in front of the camera, or finish tasks. If someone checks your tasks, they can ask for a photo of a finished task, or set a task to always ask for one. A daily cap limits how much you can earn.
+**How do I earn time?** Walk or work out (counted from Apple Health), do Push Ups, Squats or Jumping Jacks in front of the camera, or finish tasks. If someone checks your tasks, they can ask for a photo of a finished task, or set a task to always ask for one. A daily cap limits how much you can earn.
 
 **How do I unlock apps?** On Home, spend some of your minutes. The apps lock again when the time is up. Ending early refunds the minutes left.
 
@@ -45,7 +45,7 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 - **Steps aren't counting:** open iPhone Settings, then Health, Data Access & Devices, CounterWait, and turn on Steps and Workouts.
 - **Apps aren't locking:** open iPhone Settings, then Screen Time, and make sure Screen Time is on and CounterWait has access.
 - **An app stays closed after unlocking:** Apple's own App Limits or Downtime may cover it. See Setting up Apple's Screen Time above.
-- **The camera isn't counting reps:** stand the phone up so your whole body is in view. For a Plank, put the phone on the floor about 8 feet away, to your side.
+- **The camera isn't counting reps:** stand the phone up so your whole body is in view.
 - **The invite link won't open:** both phones need CounterWait installed and must be signed in to iCloud.
 - **Approvals aren't arriving:** open the app on both phones and pull down to refresh.
 
