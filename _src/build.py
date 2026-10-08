@@ -46,7 +46,7 @@ TEMPLATE = """<!doctype html>
 {body}
 </main>
 <footer class="site">
-  <p>CounterWait is made by Stepping Stone Elite LLC in North Carolina. <a href="mailto:matthewaliseo@steppingstonegroup.net">matthewaliseo@steppingstonegroup.net</a></p>
+  <p>CounterWait is made by Stepping Stone Elite LLC in North Carolina. <a href="mailto:support@steppingstonegroup.net">support@steppingstonegroup.net</a></p>
   <p class="dedication"><em>For my wife and kids, who believed in this first.</em><br><abbr title="Soli Deo Gloria">S.D.G.</abbr></p>
 </footer>
 </body>

@@ -3,7 +3,7 @@
 CounterWait locks the apps you choose until you earn time for them with exercise and tasks. Families and accountability buddies can approve each other's tasks.
 
 <div class="callout" markdown="1">
-**Need help?** Email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
+**Need help?** Email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
 </div>
 
 ## Common questions
@@ -22,11 +22,11 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 
 **Does it work on Android or iPad?** Not yet. CounterWait locks apps through Apple's Screen Time and syncs through iCloud, so everyone in the family needs an iPhone for now. We know plenty of families mix iPhones and Android phones. We're a small, independent developer, and supporting Android well means building and maintaining a second app, which we can take on once there's enough support to sustain it. iPad support is planned first.
 
-**I forgot the parent/guardian passcode.** We can't see or reset passcodes, because they're never sent to us. Email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net) and we'll walk you through starting over on the child's phone.
+**I forgot the parent/guardian passcode.** We can't see or reset passcodes, because they're never sent to us. Email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net) and we'll walk you through starting over on the child's phone.
 
 **How do I cancel Plus?** Open the iPhone Settings app, tap your name, then Subscriptions, then CounterWait Plus.
 
-**How do I delete my data?** In CounterWait, open Settings > Delete all my data. To have a story sent with an earlier version or a share code removed, email [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net).
+**How do I delete my data?** In CounterWait, open Settings > Delete all my data. To have a story sent with an earlier version or a share code removed, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net).
 
 **Is CounterWait medical advice?** No. Talk with a doctor before starting a new exercise routine, and stop if anything hurts. Parents and guardians decide what's right for their children and supervise their exercise.
 

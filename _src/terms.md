@@ -30,4 +30,4 @@ These terms are an agreement between you and Stepping Stone Elite LLC ("we", "us
 
 **13. Changes.** We may update these terms. We'll change the date above and tell you in the app before material changes take effect. If you keep using CounterWait after that, you accept the updated terms.
 
-**14. Contact.** Stepping Stone Elite LLC, [matthewaliseo@steppingstonegroup.net](mailto:matthewaliseo@steppingstonegroup.net), (980) 330-1415.
+**14. Contact.** Stepping Stone Elite LLC, [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net), (980) 330-1415.
