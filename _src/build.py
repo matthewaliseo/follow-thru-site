@@ -26,7 +26,7 @@ TEMPLATE = """<!doctype html>
 <meta property="og:site_name" content="CounterWait">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{description}">
-<meta property="og:image" content="https://matthewaliseo.github.io/follow-thru-site/og-image.png">
+<meta property="og:image" content="https://counterwait.app/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:type" content="website">
