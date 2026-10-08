@@ -6,6 +6,10 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 **Need help?** Email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
 </div>
 
+<div class="callout" markdown="1">
+**We're not on social media. On purpose.** Social media is a big part of why CounterWait exists, so we don't use it. Any CounterWait page on Instagram, TikTok, Facebook, X or anywhere else is fake. Don't give it your information, and please report it. The only real places are counterwait.app, the App Store, and [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net).
+</div>
+
 ## Common questions
 
 **How do I set up a family?** On the parent or guardian's iPhone, choose Family, then "I'm a parent/guardian setting up our family". Then, in the Family tab, invite your child with their Apple Account email or phone number. On the child's iPhone, with CounterWait installed and a parent or guardian present, choose "I'm the child" and open the invite. Locking a child's apps needs Apple Family Sharing with the child in your family.
