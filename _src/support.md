@@ -12,9 +12,9 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 
 ## Common questions
 
-**How do I set up a family?** On the parent or guardian's iPhone, choose Family, then "I'm a parent/guardian setting up our family". Then, in the Family tab, invite your child with their Apple Account email or phone number. On the child's iPhone, with CounterWait installed and a parent or guardian present, choose "I'm the child" and open the invite. Locking a child's apps needs Apple Family Sharing with the child in your family.
+**How do I set up a family?** On your iPhone, choose "Family: You, Your Co-Parent/Guardian, and Kids", then "I'm a Parent/Guardian Setting Up Our Family". In the Family tab, tap "Add Your Co-Parent/Guardian" or "Add a Child", then "Send Invite" and send it like a text. On the child's iPhone, with CounterWait installed and you there, choose "I'm the Child" and open the invite. Locking a child's apps needs Apple Family Sharing with the child in your family.
 
-**Can my co-parent/guardian help?** Yes. Invite them from the Family tab. On their iPhone, they choose "I'm a Parent/Guardian Joining My Co-Parent/Guardian" and open the invite. You'll both get approvals.
+**Can my co-parent/guardian help?** Yes. In the Family tab, tap "Add Your Co-Parent/Guardian". On their iPhone, they choose "I'm a Parent/Guardian Joining My Co-Parent/Guardian" and open the invite. You'll both get approvals. Invite lost? Tap "Add Your Co-Parent/Guardian" again to resend it.
 
 **How do I add an accountability buddy?** Choose Accountability Buddies, pick how you'll work together, then send the invite link. To check each other, each person sends the other a link.
 

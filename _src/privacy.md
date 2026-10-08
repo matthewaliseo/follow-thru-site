@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<p class="meta">Effective October 6, 2026</p>
+<p class="meta">Effective October 8, 2026</p>
 
 CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net) or (980) 330-1415.
 
@@ -20,13 +20,13 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 | Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. Workouts are never recorded, saved or sent. It isn't used to recognize anyone | No one |
 | Task photos | Only taken on a phone someone checks, and only when the person who approves your tasks asks for a photo, or sets a task to always ask for one. Then you take one photo of the finished task. It is kept on your iPhone for up to 30 days, sent to them through iCloud, and deleted from iCloud after 90 days. A phone nobody checks never takes task photos | You and the people who check your tasks |
 | Activity and alerts on a checked phone, such as unlocks, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
-| A contact you pick to invite | Apple's contact picker gives the app only the one email address or phone number you choose. The app doesn't read or keep your contacts | The person you invite |
+| People you invite | You send invites with Apple's share sheet, like a text in Messages, and choose who gets them there. The app never reads or keeps your contacts | The person you invite |
 | Stories sent with earlier versions | Earlier versions let adults send us a story. The app no longer shows or accepts stories. Any a phone sent are still deleted by Delete all my data | Us |
 | Share codes (test versions before October 2026 only) | Your code is kept on your iPhone, including after you delete the app, so a code can't be used twice. When you use a friend's code, a record with that code is saved in our app's public iCloud database | Us, and the phone that owns the code |
 
 ## Linking with family or a buddy
 
-CounterWait uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a buddy) invites people by their Apple Account email or phone number, and only that Apple Account can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
+CounterWait uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a buddy) invites people by sending an invite with Apple's share sheet, like a text in Messages, and only the person it was sent to can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
 
 When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. For an adult who is checked by a buddy, the buddy can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
 
