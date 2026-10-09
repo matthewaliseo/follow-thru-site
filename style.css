@@ -62,3 +62,6 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 
 .dedication { text-align: center; margin-top: 1.5rem; opacity: 0.75; font-size: 0.9em; }
 .dedication abbr { text-decoration: none; cursor: help; }
+
+/* The ™ after the name, small so it doesn't crowd it. */
+.tm { font-size: 0.45em; vertical-align: super; line-height: 0; font-weight: 400; }
