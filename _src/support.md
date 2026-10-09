@@ -3,6 +3,10 @@
 CounterWait locks the apps you choose until you earn time for them with exercise and tasks. Families and accountability buddies can approve each other's tasks.
 
 <div class="callout" markdown="1">
+**CounterWait needs iCloud.** Every iPhone that uses CounterWait must be signed in to iCloud, with CounterWait turned on for iCloud. Without it, locks, earned time, tasks and linked phones won't work. To check: open the Settings app, tap your name, then iCloud, then "See All" (or "Apps Using iCloud"), and make sure CounterWait is on.
+</div>
+
+<div class="callout" markdown="1">
 **Need help?** Email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
 </div>
 
