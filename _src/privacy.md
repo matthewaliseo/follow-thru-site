@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<p class="meta">Effective October 8, 2026</p>
+<p class="meta">Effective October 10, 2026</p>
 
 CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net) or (980) 330-1415.
 
@@ -16,7 +16,7 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 | Your birthday, and optional setup answers like "I have a pet" | Your iPhone only. The birthday is used to work out your age range and for a birthday note, and you can change or remove it in Settings. A child's phone doesn't ask; their parent or guardian picks the child's age group to suggest rules | Only you, except a child's age group |
 | Apps and websites you choose to lock | Your iPhone, through Apple's Screen Time system. Apple gives the app a code for each choice, not the app's name | No one, including us. A linked parent or buddy sees only how many items changed |
 | Minutes, history, weekly goal, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
-| Steps and workouts from Apple Health | Read on your iPhone, and your step and workout totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps or workout times |
+| Steps, workouts, Exercise minutes and mindful minutes from Apple Health | Read on your iPhone, and those totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps, workout times or mindful minutes |
 | Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. Workouts are never recorded, saved or sent. It isn't used to recognize anyone | No one |
 | Task photos | Only taken on a phone someone checks, and only when the person who approves your tasks asks for a photo, or sets a task to always ask for one. Then you take one photo of the finished task. It is kept on your iPhone for up to 30 days, sent to them through iCloud, and deleted from iCloud after 90 days. A phone nobody checks never takes task photos | You and the people who check your tasks |
 | Activity and alerts on a checked phone, such as unlocks, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
@@ -34,7 +34,7 @@ The group owner can remove anyone, and anyone can leave a group in Settings. Lea
 
 ## Apple Health
 
-CounterWait only reads steps and workouts, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone. The people you link with see the minutes you earn, not your health data.
+CounterWait only reads steps, workouts, Exercise minutes and mindful minutes, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone. The people you link with see the minutes you earn, not your health data.
 
 ## Notifications
 
@@ -101,7 +101,7 @@ Depending on where you live, you may have the right to know, access, correct or 
 
 ## Consumer health data
 
-CounterWait reads steps and workouts from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net).
+CounterWait reads steps, workouts, Exercise minutes and mindful minutes from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net).
 
 ## Where CounterWait is offered
 
