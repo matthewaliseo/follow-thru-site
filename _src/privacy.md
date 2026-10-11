@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<p class="meta">Effective October 10, 2026</p>
+<p class="meta">Effective October 11, 2026</p>
 
 CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net) or (980) 330-1415.
 
@@ -18,7 +18,8 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 | Minutes, history, weekly goal, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
 | Steps, workouts, Exercise minutes and mindful minutes from Apple Health | Read on your iPhone, and those totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps, workout times or mindful minutes |
 | Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. Workouts are never recorded, saved or sent. It isn't used to recognize anyone | No one |
-| Task photos | Only taken on a phone someone checks, and only when the person who approves your tasks asks for a photo, or sets a task to always ask for one. Then you take one photo of the finished task. It is kept on your iPhone for up to 30 days, sent to them through iCloud, and deleted from iCloud after 90 days. A phone nobody checks never takes task photos | You and the people who check your tasks |
+| Task photos | Only taken on a phone someone checks, and only when the person who approves your tasks asks for a photo, or sets a task to ask for one the first few times it is done. Then you take one photo of the finished task. It is kept on your iPhone for up to 30 days, sent to them through iCloud, and deleted from iCloud after 90 days. A phone nobody checks never takes task photos | You and the people who check your tasks |
+| Freeze reports | When the app freezes or closes unexpectedly, iOS can give it a report of which part of the app's code was running. It's kept on your iPhone for up to 30 days and holds no names, tasks, photos or anything you typed. It's only sent if you tap "Share Freeze Report" in Settings and choose where to send it. A child's phone doesn't show that button | Only you, unless you choose to send it |
 | Activity and alerts on a checked phone, such as unlocks, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
 | People you invite | You send invites with Apple's share sheet, like a text in Messages, and choose who gets them there. The app never reads or keeps your contacts | The person you invite |
 | Stories sent with earlier versions | Earlier versions let adults send us a story. The app no longer shows or accepts stories. Any a phone sent are still deleted by Delete all my data | Us |
@@ -69,7 +70,7 @@ Before a child joins, the parent or guardian's phone shows this notice and asks 
 <div class="callout" markdown="1">
 CounterWait is made by Stepping Stone Elite LLC. Here's what happens when your child uses it:
 
-- Your child's phone will send you their first name, tasks, a task photo when you ask for one or set a task to always ask, camera workouts they share, minutes, allowance totals and activity alerts.
+- Your child's phone will send you their first name, tasks, a task photo when you ask for one or set a task to ask the first few times, camera workouts they share, minutes, allowance totals and activity alerts.
 - It all travels through iCloud and is stored in your iCloud account. We can't see it, and we don't run servers, ads or analytics.
 - Photos are deleted from iCloud after 90 days. Workouts are never recorded. You can remove your child or delete the group at any time to delete the rest.
 - Your child can't contact us, share outside the family, or make purchases in CounterWait.
