@@ -17,6 +17,7 @@ PAGES = [
 TEMPLATE = """<!doctype html>
 <html lang="en">
 <head>
+<meta name="google-site-verification" content="q_kRYdHejVBxCu1iKaauMmyIH3g-S8oT0By9JX5JhJA" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
