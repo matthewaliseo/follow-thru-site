@@ -1,6 +1,6 @@
 # Privacy Policy
 
-<p class="meta">Effective October 11, 2026</p>
+<p class="meta">Effective October 12, 2026</p>
 
 CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net) or (980) 330-1415.
 
@@ -16,11 +16,11 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 | Your birthday, and optional setup answers like "I have a pet" | Your iPhone only. The birthday is used to work out your age range and for a birthday note, and you can change or remove it in Settings. A child's phone doesn't ask; their parent or guardian picks the child's age group to suggest rules | Only you, except a child's age group |
 | Apps and websites you choose to lock | Your iPhone, through Apple's Screen Time system. Apple gives the app a code for each choice, not the app's name | No one, including us. A linked parent or buddy sees only how many items changed |
 | Minutes, history, weekly goal, tasks, rules and the allowance tracker | Your iPhone. If you link with someone, the parts you share are kept in iCloud in the account of the person who set up the group | You and the people you link with |
-| Steps, workouts, Exercise minutes and mindful minutes from Apple Health | Read on your iPhone, and those totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps, workout times or mindful minutes |
+| Steps, workouts, Exercise minutes and mindful minutes from Apple Health | Read on your iPhone, and those totals stay there. The app never writes to Apple Health | You. If you link with someone, they see the minutes you earn, not your steps, workout times or mindful minutes. On a phone a parent or guardian checks, a workout another app saved to Apple Health is sent to them for approval with its type, length and the app's name, like "45-minute run from Strava" |
 | Camera during workouts | Each frame is analyzed on your iPhone to count reps and then discarded. Workouts are never recorded, saved or sent. It isn't used to recognize anyone | No one |
 | Task photos | Only taken on a phone someone checks, and only when the person who approves your tasks asks for a photo, or sets a task to ask for one the first few times it is done. Then you take one photo of the finished task. It is kept on your iPhone for up to 30 days, sent to them through iCloud, and deleted from iCloud after 90 days. A phone nobody checks never takes task photos | You and the people who check your tasks |
 | Freeze reports | When the app freezes or closes unexpectedly, iOS can give it a report of which part of the app's code was running. It's kept on your iPhone for up to 30 days and holds no names, tasks, photos or anything you typed. It's only sent if you tap "Share Freeze Report" in Settings and choose where to send it. A child's phone doesn't show that button | Only you, unless you choose to send it |
-| Activity and alerts on a checked phone, such as unlocks, pausing, wrong passcode tries, or turning off Screen Time access | Sent to the people who check you | The people who check you |
+| Activity and alerts on a checked phone, such as unlocks, pausing, wrong passcode tries, turning off Screen Time access, locks being taken off, or using Reset App or Delete all my data | Sent to the people who check you | The people who check you |
 | People you invite | You send invites with Apple's share sheet, like a text in Messages, and choose who gets them there. The app never reads or keeps your contacts | The person you invite |
 | Stories sent with earlier versions | Earlier versions let adults send us a story. The app no longer shows or accepts stories. Any a phone sent are still deleted by Delete all my data | Us |
 | Share codes (test versions before October 2026 only) | Your code is kept on your iPhone, including after you delete the app, so a code can't be used twice. When you use a friend's code, a record with that code is saved in our app's public iCloud database | Us, and the phone that owns the code |
@@ -29,13 +29,13 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 
 CounterWait uses Apple's iCloud sharing. The person who sets up a group (a parent or guardian, or a buddy) invites people by sending an invite with Apple's share sheet, like a text in Messages, and only the person it was sent to can join. The group's information is stored in the iCloud account of the person who set it up, and it counts toward their iCloud storage.
 
-When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. For an adult who is checked by a buddy, the buddy can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
+When you join a group, the person who set it up can see your first name, tasks and photos you send for approval, workouts you share, minutes earned and spent, your allowance tracker totals, and activity alerts. On a child's phone, a parent or guardian also sets the rules, limits, grounding and passcode. In a family with more than one parent or guardian, each one's all-time rep totals by exercise are shared with the others for the family's All Time totals. For an adult who is checked by a buddy, the buddy can take away minutes and set a passcode, as the join screen explains before you accept. We can't read any of it.
 
 The group owner can remove anyone, and anyone can leave a group in Settings. Leaving stops sharing from then on. What was already shared stays in the owner's group until the owner deletes it, or until it expires under "How long information is kept".
 
 ## Apple Health
 
-CounterWait only reads steps, workouts, Exercise minutes and mindful minutes, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone. The people you link with see the minutes you earn, not your health data.
+CounterWait only reads steps, workouts, Exercise minutes and mindful minutes, and only with your permission, which you can change at any time in the Health app. It never writes to Apple Health. Health information is used only to give you minutes and show your progress. It is never used for advertising or marketing, never sold, and never given to anyone. The people you link with see the minutes you earn, not your health data. The one exception is on a phone a parent or guardian checks: a workout another app saved to Apple Health goes to them for approval with its type, length and the app's name. Workouts recorded by Apple's own iPhone or Apple Watch apps count on their own and aren't sent.
 
 ## Notifications
 
@@ -102,7 +102,7 @@ Depending on where you live, you may have the right to know, access, correct or 
 
 ## Consumer health data
 
-CounterWait reads steps, workouts, Exercise minutes and mindful minutes from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net).
+CounterWait reads steps, workouts, Exercise minutes and mindful minutes from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress, and on a phone a parent or guardian checks, workouts from other apps go to them for approval as described under Apple Health. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net).
 
 ## Where CounterWait is offered
 
