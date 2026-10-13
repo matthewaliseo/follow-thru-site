@@ -20,7 +20,7 @@ Here's what we're working on after CounterWait launches. We build in the order f
 
 **High Knees.** A new camera exercise, counted the same way as Push Ups, Squats and Jumping Jacks.
 
-**Pet names.** Name your pets in setup, so pet tasks and reminders say "Feed Biscuit" instead of "Feed the dog".
+**Your pets, by name.** Add your pets' names in setup, so pet tasks and reminders say "Feed Biscuit" instead of "Feed the dog".
 
 **Trophy shelf.** Trophies for personal bests, Face-Off wins and Phones Down, with no streaks to keep up.
 
