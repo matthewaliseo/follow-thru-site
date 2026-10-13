@@ -1,11 +1,11 @@
 # Privacy Policy
 
-<p class="meta">Effective October 12, 2026</p>
+<p class="meta">Effective October 13, 2026</p>
 
 CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net) or (980) 330-1415.
 
 <div class="callout" markdown="1">
-**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in CounterWait stays on your iPhone. When you link with family or an accountability buddy, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is what you choose to send us: a share code when you use a friend's code, and any email you send us.
+**The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in CounterWait stays on your iPhone. When you link with family or an accountability buddy, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is any email you send us. The app sends us nothing else. Test versions before October 2026 could save a friend's share code or a story in our app's public iCloud database. We delete those records before the app's public release.
 </div>
 
 ## What CounterWait uses, where it's kept, and who can see it
@@ -22,8 +22,8 @@ CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You 
 | Freeze reports | When the app freezes or closes unexpectedly, iOS can give it a report of which part of the app's code was running. It's kept on your iPhone for up to 30 days and holds no names, tasks, photos or anything you typed. It's only sent if you tap "Share Freeze Report" in Settings and choose where to send it. A child's phone doesn't show that button | Only you, unless you choose to send it |
 | Activity and alerts on a checked phone, such as unlocks, pausing, wrong passcode tries, turning off Screen Time access, locks being taken off, or using Reset App or Delete all my data | Sent to the people who check you | The people who check you |
 | People you invite | You send invites with Apple's share sheet, like a text in Messages, and choose who gets them there. The app never reads or keeps your contacts | The person you invite |
-| Stories sent with earlier versions | Earlier versions let adults send us a story. The app no longer shows or accepts stories. Any a phone sent are still deleted by Delete all my data | Us |
-| Share codes (test versions before October 2026 only) | Your code is kept on your iPhone, including after you delete the app, so a code can't be used twice. When you use a friend's code, a record with that code is saved in our app's public iCloud database | Us, and the phone that owns the code |
+| Stories sent with earlier versions | Earlier test versions let adults send us a story. The app no longer shows or accepts stories. We delete any that were sent before the app's public release | Us |
+| Share codes (test versions before October 2026 only) | Your code history is kept on your iPhone, including after you delete the app, so a code can't be used twice. If you used a friend's code, a record with that code was saved in our app's public iCloud database. We delete those records before the app's public release | Us, and the phone that owns the code |
 
 ## Linking with family or a buddy
 
@@ -57,7 +57,8 @@ On a child's phone:
 
 - The child's first name, tasks, task photos, workouts they share, minutes, allowance totals and activity go only to the parent or guardian, and to anyone the parent or guardian adds to the family group, such as a second parent or guardian. They travel through iCloud and are kept in the parent or guardian's iCloud account. We can't see them.
 - The child can't use share codes, invite anyone, pick from Contacts, or see purchases. The child's phone never records camera video.
-- Photos in the family group are deleted from iCloud after 90 days. Everything else stays until the parent or guardian removes the child or deletes the group.
+- Photos in the family group are deleted from iCloud after 90 days, and the child's tasks and activity after 12 months. Totals, like minutes, the allowance tracker and all-time counts, stay until the parent or guardian removes the child or deletes the group.
+- Before a child joins, the parent or guardian's phone shows what the child's phone will share and asks them to agree. If they don't, the child's phone isn't linked and sends nothing. The date they agreed is kept in the family group.
 
 Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net). Our full contact details are at the end of this policy.
 
@@ -68,20 +69,22 @@ We don't knowingly receive personal information from children under 13. If we le
 Before a child joins, the parent or guardian's phone shows this notice and asks them to agree:
 
 <div class="callout" markdown="1">
-CounterWait is made by Stepping Stone Elite LLC. Here's what happens when your child uses it:
+CounterWait is made by Stepping Stone Elite LLC. Here's what happens when the child uses it:
 
-- Your child's phone will send you their first name, tasks, a task photo when you ask for one or set a task to ask the first few times, camera workouts they share, minutes, allowance totals and activity alerts.
+- We need your agreement before the child joins. If you don't agree, the child's phone isn't linked and sends nothing.
+- The child's phone will send you their first name, tasks, a task photo when you ask for one or set a task to ask the first few times, camera workouts they share, minutes, allowance totals and activity alerts. A task photo may show the child.
 - It all travels through iCloud and is stored in your iCloud account. We can't see it, and we don't run servers, ads or analytics.
-- Photos are deleted from iCloud after 90 days. Workouts are never recorded. You can remove your child or delete the group at any time to delete the rest.
-- Your child can't contact us, share outside the family, or make purchases in CounterWait.
+- Photos are deleted from iCloud after 90 days, and tasks and activity after 12 months. Workouts are never recorded.
+- You can change your mind at any time: remove the child under Family, or delete the group, and what the child shared is deleted. Their phone then stops sending anything.
+- The child can't contact us, share outside the family, or make purchases in CounterWait.
 </div>
 
 ## How long information is kept
 
 - **On your iPhone:** until you delete it, use Delete all my data, or delete the app. Task photos are kept for up to 30 days.
-- **In a family or buddy group:** task photos are deleted after 90 days. Other shared information stays until the group's owner removes the person or deletes the group.
-- **Stories sent with earlier versions:** until you ask us to remove them or use Delete all my data, and in any case we remove any older than two years.
-- **Share-code records:** deleted within 90 days after they are used.
+- **In a family or buddy group:** task photos are deleted after 90 days, and tasks and activity after 12 months. Other shared information, like totals and rules, stays until the group's owner removes the person or deletes the group.
+- **Stories sent with earlier versions:** deleted before the app's public release.
+- **Share-code records from test versions:** deleted before the app's public release.
 - **Your share-code history in your iPhone's keychain:** kept after the app is deleted so a code can't be used twice. Delete all my data removes it.
 - **Emails to support:** deleted within two years after your question is resolved.
 
