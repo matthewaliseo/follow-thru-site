@@ -1,6 +1,6 @@
 # Terms of Use
 
-<p class="meta">Effective October 5, 2026</p>
+<p class="meta">Effective October 13, 2026</p>
 
 These terms are an agreement between you and Stepping Stone Elite LLC ("we", "us"), the developer of CounterWait. By downloading or using CounterWait, you agree to them. If you don't agree, don't use the app. If you're setting up CounterWait for a child, you agree to these terms for yourself and on the child's behalf, and you're responsible for the child's use.
 
@@ -14,7 +14,7 @@ These terms are an agreement between you and Stepping Stone Elite LLC ("we", "us
 
 **5. The allowance tracker.** The allowance tracker only keeps a record of amounts one person says they owe another. CounterWait never holds, sends or receives money and isn't a bank, wallet or payment service. Any payment happens outside the app, between you and the other person, and is your responsibility.
 
-**6. CounterWait Plus and tips.** Plus is an auto-renewing subscription sold through Apple. The price and period are shown before you buy. Payment is charged to your Apple Account. It renews automatically at the then-current price unless you cancel at least 24 hours before the end of the period. You can manage or cancel it in your Apple Account settings, and it stays active until the end of the period you paid for. Refunds are handled by Apple under Apple's policies. Any free time on Plus we offer is a promotional benefit, has no cash value, and may be changed or ended at any time. Tips are voluntary one-time contributions that don't unlock anything and aren't refundable except as Apple allows. We may change what's included in Plus or its price. Price changes follow Apple's rules for notice and consent.
+**6. CounterWait Plus and tips.** Plus is an auto-renewing subscription sold through Apple. The price and period are shown before you buy. Payment is charged to your Apple Account. It renews automatically at the then-current price unless you cancel at least 24 hours before the end of the period. You can manage or cancel it in your Apple Account settings, and it stays active until the end of the period you paid for. Plus Lifetime is a one-time purchase of Plus that never renews. "Lifetime" means for as long as we offer CounterWait and Plus, on the Apple Account that bought it or shares it through Family Sharing. For 14 days after buying Plus Lifetime, the Plus page offers "Request a Refund", which sends the request to Apple. Refunds are handled by Apple under Apple's policies, and nothing here limits any refund right the law gives you. Any free time on Plus we offer is a promotional benefit, has no cash value, and may be changed or ended at any time. Tips are voluntary one-time contributions that don't unlock anything and aren't refundable except as Apple allows. We may change what's included in Plus or its price. Price changes follow Apple's rules for notice and consent.
 
 **7. Acceptable use.** Don't misuse CounterWait, including by trying to get around another person's rules or passcode without permission, sending false information to someone in your group, harassing anyone, interfering with iCloud or the app, or reverse engineering the app except as the law allows.
 
