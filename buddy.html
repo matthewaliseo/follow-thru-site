@@ -33,13 +33,19 @@
 <p>Someone asked you to be their CounterWait buddy. As their buddy, you approve the tasks that earn their screen time and see when they unlock.</p>
 <div class="callout">
 <p><strong>Already have CounterWait?</strong> Open it here on your iPhone. It opens your buddy invite. Send it to the person who asked you.</p>
-<p><a class="button" href="followthrough://buddy">Open CounterWait</a></p>
+<p><a class="button" id="open-app" href="followthrough://buddy">Open CounterWait</a></p>
 </div>
 <div class="callout">
-<p><strong>Don't have it yet?</strong> Get CounterWait. During setup, choose "Accountability Buddies", then "I Help Someone", and send your invite at the end.</p>
+<p><strong>Don't have it yet?</strong> Get CounterWait. During setup, choose "Me, With a Buddy", then "I Help Someone", and send your invite at the end.</p>
 <p><a class="button" href="https://testflight.apple.com/join/twk486Dg">Get CounterWait</a></p>
 </div>
+<p>A kid's iPhone, set up by a parent/guardian, can't be anyone's buddy. Buddies use an adult's iPhone, or a teen's own "Just Me" iPhone.</p>
 <p>Only send your invite to someone you know. CounterWait never asks for your Apple Account password or for payment in a message.</p>
+<script>
+// A scanned code's request rides along, so the app can send the invite
+// straight back to the phone that showed it.
+document.getElementById("open-app").href = "followthrough://buddy" + location.search;
+</script>
 </main>
 <footer class="site">
   <p>CounterWait™ is a trademark of Stepping Stone Elite LLC, which makes it in North Carolina. <a href="mailto:support@steppingstonegroup.net">support@steppingstonegroup.net</a></p>
