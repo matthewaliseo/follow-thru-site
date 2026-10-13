@@ -12,6 +12,7 @@ PAGES = [
     ("privacy", "Privacy Policy", "How CounterWait handles your information."),
     ("terms", "Terms of Use", "The terms for using CounterWait."),
     ("support", "Support", "Help with CounterWait."),
+    ("buddy", "Be a Buddy", "Someone asked you to be their CounterWait buddy."),
 ]
 
 TEMPLATE = """<!doctype html>
