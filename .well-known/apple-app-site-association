@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["33BDW23V9T.com.screentimebank.app"],
+        "components": [
+          { "/": "/buddy", "comment": "Buddy request: opens Be Someone's Buddy in CounterWait" },
+          { "/": "/buddy.html" },
+          { "/": "/buddy/" }
+        ]
+      }
+    ]
+  }
+}
