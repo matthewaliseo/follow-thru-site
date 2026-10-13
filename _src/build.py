@@ -13,6 +13,7 @@ PAGES = [
     ("terms", "Terms of Use", "The terms for using CounterWait."),
     ("support", "Support", "Help with CounterWait."),
     ("buddy", "Be a Buddy", "Someone asked you to be their CounterWait buddy."),
+    ("roadmap", "What's Next", "What's coming to CounterWait after launch."),
 ]
 
 TEMPLATE = """<!doctype html>
@@ -39,6 +40,7 @@ TEMPLATE = """<!doctype html>
 <header class="site">
   <a class="brand" href="./"><img src="icon.svg" alt="" width="32" height="32"><span>CounterWait<sup class="tm">™</sup></span></a>
   <nav>
+    <a href="roadmap.html"{roadmap}>What's Next</a>
     <a href="support.html"{support}>Support</a>
     <a href="privacy.html"{privacy}>Privacy</a>
     <a href="terms.html"{terms}>Terms</a>
@@ -61,7 +63,7 @@ def render(name, md_text, title, description):
     # Wide tables scroll on their own instead of the page.
     body = re.sub(r"<table>", '<div class="table"><table>', body)
     body = body.replace("</table>", "</table></div>")
-    current = {key: (' aria-current="page"' if key == name else "") for key in ("support", "privacy", "terms")}
+    current = {key: (' aria-current="page"' if key == name else "") for key in ("roadmap", "support", "privacy", "terms")}
     return TEMPLATE.format(title=title, description=description, body=body, **current)
 
 
