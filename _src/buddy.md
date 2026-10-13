@@ -4,7 +4,7 @@ Someone asked you to be their CounterWait buddy. As their buddy, you approve the
 
 <div class="callout" markdown="1">
 
-**Already have CounterWait?** Open it here on your iPhone. It goes straight to "Be Someone's Buddy". Pick the person who asked you and send them your invite.
+**Already have CounterWait?** Open it here on your iPhone. It opens your buddy invite. Send it to the person who asked you.
 
 <p><a class="button" href="followthrough://buddy">Open CounterWait</a></p>
 
@@ -17,3 +17,5 @@ Someone asked you to be their CounterWait buddy. As their buddy, you approve the
 <p><a class="button" href="https://testflight.apple.com/join/twk486Dg">Get CounterWait</a></p>
 
 </div>
+
+Only send your invite to someone you know. CounterWait never asks for your Apple Account password or for payment in a message.
