@@ -12,7 +12,7 @@ Someone asked you to be their CounterWait buddy. As their buddy, you approve the
 
 <div class="callout" markdown="1">
 
-**Don't have it yet?** Get CounterWait. During setup, choose "Me, With a Buddy", then "I Help Someone", and send your invite at the end.
+**Don't have it yet?** Get CounterWait and set it up, then come back to this page and tap Open CounterWait. Your request goes through on its own.
 
 <p><a class="button" href="https://testflight.apple.com/join/twk486Dg">Get CounterWait</a></p>
 
