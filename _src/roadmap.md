@@ -22,7 +22,7 @@ Here's what we're working on after CounterWait launches. We build in the order f
 
 **Your pets, by name.** Add your pets' names in setup, so pet tasks and reminders say "Feed Biscuit" instead of "Feed the dog".
 
-**Trophy shelf.** Trophies for personal bests, Face-Off wins and Phones Down, with no streaks to keep up.
+**Trophy shelf.** Trophies for personal bests and Face-Off wins, with no streaks to keep up.
 
 **A seesaw widget.** A Home Screen widget that tips as minutes are earned and spent.
 
