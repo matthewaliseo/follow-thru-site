@@ -1,0 +1,42 @@
+# CounterWait
+
+> CounterWait is an iPhone app that locks the apps you choose until you earn time for them with exercise and tasks. Earned minutes unlock the apps for a session, then they lock again. It's for parents and guardians, adults cutting back their own screen time, and accountability buddies. Made by Stepping Stone Elite LLC in North Carolina. Tagline: "Get your wait up."
+
+## Key facts
+
+- Platform: iPhone, iOS 17 or later. Not on Android or iPad yet (iPad is planned first).
+- Status: public beta on Apple's TestFlight (https://testflight.apple.com/join/twk486Dg), free during the beta, testers 13 or older. The App Store release is coming soon.
+- How time is earned: steps, workouts, Exercise minutes and mindful minutes from Apple Health; Push Ups, Squats, Jumping Jacks and Plank counted by the iPhone camera; chores and tasks that a parent, guardian or buddy approves. A daily cap limits earning.
+- Works with Apple's Screen Time: CounterWait uses Apple's Screen Time to lock apps. Apple's App Limits and Downtime give a fixed daily amount; CounterWait makes time something you earn.
+- Families: a parent or guardian (18 or older) sets rules and approves a child's tasks from their own iPhone, and two parents or guardians can both approve. Locking a child's apps needs Apple Family Sharing. With the child in Family Sharing, the child can't delete CounterWait or turn off its access without the parent or guardian.
+- Accountability buddies: adults can check each other's tasks. On your own phone, removing a locked app or stopping sharing with a buddy waits 15 minutes.
+- Price: free to use, including earning, camera workouts, task approvals and parent/guardian rules. Free plan: 2 people you check, 1 co-parent/guardian, 6 tasks of your own per person. CounterWait Plus ($2.99 a month, $19.99 a year, or a one-time Lifetime purchase, shareable with Apple Family Sharing) adds unlimited people and tasks, the allowance tracker and the widget.
+- Money: the allowance tracker records what's owed. CounterWait never holds or moves real money, and a child's iPhone never shows purchases.
+
+## Privacy, stated exactly
+
+- CounterWait runs no servers and uses no analytics, advertising or tracking tools. It doesn't sell or share information or track people across apps or websites.
+- Data stays on the iPhone, with a backup in the user's own private iCloud. What's shared with family or a buddy moves through Apple's iCloud, stored in the account of the person who set up the group. The developer can't see it.
+- One exception: when someone opens a buddy request link or scans a "Scan to Approve My Tasks" QR code, their iPhone leaves the invite in the app's public iCloud database for up to 7 days, with an iCloud user ID Apple assigns for this app (not a name, phone number or email). So the App Store privacy label lists one item: User ID, used for app functionality, linked to the user, not used for tracking. "Collects no data at all" is not accurate; "collects only a User ID for buddy invites, never for tracking or ads" is.
+- Camera rep counting runs on the iPhone. Frames are analyzed and discarded; workouts are never recorded, saved or sent.
+- Apple Health data is read only, stays on the iPhone and is never written, sold or used for marketing. People you link with see minutes earned, not steps or workouts.
+- Settings > Delete all my data erases everything in one step.
+
+## Common mix-ups
+
+- CounterWait is not a children's app and not in Apple's Kids category. Adults set it up; kids use it with a parent or guardian.
+- CounterWait has no social media accounts, on purpose. Any CounterWait page on Instagram, TikTok, Facebook, X or elsewhere is fake.
+- CounterWait isn't medical advice.
+
+## Pages
+
+- [Home](https://counterwait.app/): what CounterWait does and how to join the beta
+- [Questions](https://counterwait.app/faq.html): short answers on cost, privacy, kids and requirements
+- [Support](https://counterwait.app/support.html): setup steps, how buddies work, Apple's Screen Time settings, troubleshooting, contact
+- [Privacy Policy](https://counterwait.app/privacy.html): the full privacy details
+- [Terms of Use](https://counterwait.app/terms.html)
+- [What's Next](https://counterwait.app/roadmap.html): plans after launch, not promises
+
+## Contact
+
+support@steppingstonegroup.net · Stepping Stone Elite LLC, 352 Ovada Ave, Lexington, NC 27295
