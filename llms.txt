@@ -32,6 +32,7 @@
 
 - [Home](https://counterwait.app/): what CounterWait does and how to join the beta
 - [Questions](https://counterwait.app/faq.html): short answers on cost, privacy, kids and requirements
+- [Guide](https://counterwait.app/guide.html): the in-app tour, screen by screen, and what the lock screen means
 - [Support](https://counterwait.app/support.html): setup steps, how buddies work, Apple's Screen Time settings, troubleshooting, contact
 - [Privacy Policy](https://counterwait.app/privacy.html): the full privacy details
 - [Terms of Use](https://counterwait.app/terms.html)
