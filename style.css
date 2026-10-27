@@ -34,7 +34,8 @@ header.site {
 }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 19px; color: var(--ink); text-decoration: none; }
 .brand img { border-radius: 8px; }
-nav { display: flex; gap: 18px; }
+nav { display: flex; flex-wrap: wrap; gap: 6px 18px; }
+nav a { white-space: nowrap; }
 nav a { color: var(--ink-2); text-decoration: none; font-weight: 600; }
 nav a[aria-current="page"], nav a:hover { color: var(--accent); }
 main { padding-top: 12px; padding-bottom: 48px; }
