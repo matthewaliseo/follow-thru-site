@@ -59,6 +59,8 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 .demo { margin: 22px auto 0; }
 .demo video { display: block; width: 100%; max-width: 270px; height: auto; margin: 0 auto; border-radius: 18px; background: #2B1E4A; box-shadow: 0 6px 24px rgba(43, 30, 74, 0.16); }
 .demo figcaption { color: var(--ink-2); font-size: 15px; margin-top: 8px; }
+.button.share { border: 0; cursor: pointer; font-family: inherit; margin-top: 14px; }
+.share-status { color: var(--ink-2); font-size: 15px; min-height: 1em; }
 .links { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 36px; }
 .links a { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; text-decoration: none; color: var(--ink); }
 .links a strong { display: block; color: var(--accent); }
