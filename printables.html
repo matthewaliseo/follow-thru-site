@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta name="google-site-verification" content="q_kRYdHejVBxCu1iKaauMmyIH3g-S8oT0By9JX5JhJA" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free Printable Chore Chart and Family Phone Rules | CounterWait</title>
+<meta name="description" content="Free printable weekly chore chart, a two-wheel chore rotation, and a family phone rules checklist. Blank, one page each, ready to print on Letter or A4.">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta property="og:site_name" content="CounterWait">
+<meta property="og:title" content="Free Printable Chore Chart and Family Phone Rules">
+<meta property="og:description" content="Free printable weekly chore chart, a two-wheel chore rotation, and a family phone rules checklist. Blank, one page each, ready to print.">
+<meta property="og:image" content="https://counterwait.app/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="style.css">
+<link rel="canonical" href="https://counterwait.app/printables.html">
+<style>
+/* The sheets look like paper on screen, in light and dark mode alike. */
+.sheet {
+  --p-ink: #2B1E4A; --p-ink-2: #5E5470; --p-line: #CFC4D8; --p-accent: #F26B3A;
+  background: #FFFFFF; color: var(--p-ink);
+  border: 1px solid var(--line); border-radius: 14px;
+  padding: 28px 28px 20px; margin: 20px 0 8px;
+  box-shadow: 0 6px 24px rgba(43, 30, 74, 0.10);
+}
+.sheet h2 { font-size: 26px; margin: 0; line-height: 1.2; }
+.sheet .sub { color: var(--p-ink-2); font-size: 15px; margin: 4px 0 0; }
+.sheet .fill { display: inline-block; min-width: 9em; border-bottom: 1px solid var(--p-ink-2); }
+.sheet-top { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 6px 20px; margin-bottom: 14px; }
+.sheet-top p { margin: 0; font-size: 15px; }
+.print-row { display: flex; justify-content: center; margin: 4px 0 28px; }
+.print-row .button, .lead-actions .button { border: 0; cursor: pointer; font-family: inherit; }
+.lead-actions { text-align: center; margin: 18px 0 0; }
+
+/* Box to tick: an outline only, so it costs almost no ink. */
+.box { display: inline-block; width: 14px; height: 14px; border: 1.3px solid var(--p-ink); border-radius: 3px; vertical-align: middle; }
+
+/* Weekly chart */
+.chart { width: 100%; min-width: 0; border-collapse: collapse; table-layout: fixed; font-size: 13px; }
+.chart th, .chart td { border: 1px solid var(--p-line); padding: 0; text-align: center; vertical-align: middle; }
+.chart th { font-weight: 700; padding: 6px 2px; color: var(--p-ink); }
+.chart th.l { text-align: left; padding-left: 8px; }
+.chart col.name { width: 21%; } .chart col.chore { width: 25%; }
+.chart td { height: 40px; }
+.chart thead th { border-bottom: 1.5px solid var(--p-ink); }
+.chart tbody tr:last-child td { border-bottom: 1px solid var(--p-line); }
+
+/* Wheels */
+.wheels { display: flex; flex-direction: column; align-items: center; gap: 10px; }
+.wheel-chores { width: 100%; max-width: 4.3in; height: auto; }
+.wheel-row { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 12px 24px; width: 100%; }
+.wheel-names { width: 64%; max-width: 2.66in; height: auto; }
+.how { max-width: 3.4in; font-size: 14px; color: var(--p-ink-2); }
+.how ol { margin: 4px 0 0; padding-left: 20px; }
+.how li { margin: 3px 0; }
+.how strong { color: var(--p-ink); }
+.wheel-label { font-size: 13px; font-weight: 700; color: var(--p-ink-2); text-align: center; margin: 0; }
+.wheel-chores line, .wheel-names line, .wheel-chores circle, .wheel-names circle { vector-effect: non-scaling-stroke; }
+
+/* Phone rules */
+.rules { list-style: none; padding: 0; margin: 4px 0 0; }
+.rules li { display: flex; align-items: flex-end; gap: 12px; margin: 0; padding: 9px 0 5px; border-bottom: 1px solid var(--p-line); font-size: 16px; min-height: 40px; }
+.rules li .box { flex: none; margin-bottom: 3px; }
+.rules li.blank { border-bottom-color: var(--p-ink-2); }
+.rules-note { color: var(--p-ink-2); font-size: 14px; margin: 10px 0 0; }
+.signs { display: grid; grid-template-columns: 1fr 1fr; gap: 14px 24px; margin-top: 18px; }
+.signs div { border-bottom: 1px solid var(--p-ink-2); height: 34px; }
+.signs-label { font-weight: 700; margin: 18px 0 0; font-size: 15px; }
+
+/* App band at the bottom of every sheet */
+.band { display: flex; align-items: center; gap: 14px; margin-top: 18px; padding-top: 12px; border-top: 1.5px solid var(--p-accent); }
+.band .logo { width: 58px; height: 58px; border-radius: 13px; border: 1px solid var(--p-line); flex: none; }
+.band .pitch { flex: 1; min-width: 0; }
+.band .pitch strong { display: block; font-size: 16px; line-height: 1.25; }
+.band .pitch p { margin: 3px 0 0; font-size: 13px; line-height: 1.35; color: var(--p-ink-2); }
+.band .pitch .made { font-size: 11px; margin-top: 4px; }
+.band .code { flex: none; text-align: center; font-size: 11px; line-height: 1.3; color: var(--p-ink); }
+.band .code .qr { display: block; width: 84px; height: 84px; margin: 0 auto 2px; }
+.band .code b { display: block; font-size: 12px; }
+
+@media (max-width: 520px) {
+  .sheet { padding: 18px 12px 14px; }
+  .sheet h2 { font-size: 22px; }
+  .chart { font-size: 11px; }
+  .chart col.name { width: 19%; } .chart col.chore { width: 23%; }
+  .chart th.l { padding-left: 4px; }
+  .box { width: 12px; height: 12px; }
+  .signs { grid-template-columns: 1fr; }
+  .band .logo { width: 44px; height: 44px; border-radius: 10px; }
+  .band .code .qr { width: 70px; height: 70px; }
+}
+
+@page { margin: 0.45in; }
+@media print {
+  html, body { background: #FFFFFF !important; }
+  body { font-size: 12pt; }
+  header.site, footer.site, .intro, .print-row, .lead-actions, .more { display: none !important; }
+  main { max-width: none; padding: 0; margin: 0; }
+  .sheet {
+    box-shadow: none; border: 0; border-radius: 0; margin: 0; padding: 0;
+    /* One sheet per page: tall enough to push the band to the bottom,
+       short enough for both Letter (10.1in usable) and A4 (10.79in). */
+    height: 9.9in; display: flex; flex-direction: column;
+    break-after: page; page-break-after: always; break-inside: avoid;
+    -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  }
+  .sheet:last-of-type { break-after: auto; page-break-after: auto; }
+  .sheet .grow { flex: 1; }
+  .band { margin-top: auto; }
+  .chart { font-size: 11pt; }
+  .chart td { height: 0.5in; }
+  .wheel-chores { width: 4.3in; }
+  .wheel-names { width: 2.66in; }
+  /* "Print This Page" on one sheet prints only that sheet. */
+  html[data-only] .sheet { display: none; }
+  html[data-only="chart"] #chart, html[data-only="wheel"] #wheel, html[data-only="rules"] #rules { display: flex; break-after: auto; page-break-after: auto; }
+}
+</style>
+</head>
+<body>
+<header class="site">
+  <a class="brand" href="./"><img src="icon.svg" alt="" width="32" height="32"><span>CounterWait<sup class="tm">™</sup></span></a>
+  <nav>
+    <a href="roadmap.html">What's Next</a>
+    <a href="guide.html">Guide</a>
+    <a href="support.html">Support</a>
+    <a href="privacy.html">Privacy</a>
+    <a href="terms.html">Terms</a>
+  </nav>
+</header>
+<main>
+<div class="intro">
+<h1>Free Printables</h1>
+<p>A weekly chore chart, a two-wheel chore rotation and a family phone rules sheet. Names and chores are left blank for you to fill in. Each one prints on a single page, Letter or A4.</p>
+<p class="lead-actions"><button class="button" type="button" data-print="">Print All Three Pages</button></p>
+</div>
+
+<section class="sheet" id="chart" aria-labelledby="chart-title">
+  <div class="sheet-top">
+    <div>
+      <h2 id="chart-title">Weekly Chore Chart</h2>
+      <p class="sub">Write a name and a chore on each line. Tick a box when it's done.</p>
+    </div>
+    <p>Week of <span class="fill">&nbsp;</span></p>
+  </div>
+  <div class="grow">
+  <table class="chart">
+    <colgroup><col class="name"><col class="chore"><col span="7"></colgroup>
+    <thead><tr><th class="l" scope="col">Name</th><th class="l" scope="col">Chore</th><th scope="col">Mon</th><th scope="col">Tue</th><th scope="col">Wed</th><th scope="col">Thu</th><th scope="col">Fri</th><th scope="col">Sat</th><th scope="col">Sun</th></tr></thead>
+    <tbody>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+      <tr><td></td><td></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td><td><span class="box" aria-hidden="true"></span></td></tr>
+    </tbody>
+  </table>
+  </div>
+  <div class="band">
+    <img class="logo" src="icon.svg" alt="CounterWait logo" width="58" height="58">
+    <div class="pitch">
+      <strong>Tired of keeping score? CounterWait does it for you.</strong>
+      <p>Kids earn screen time with chores and exercise. Locked apps open once they've earned the minutes.</p>
+      <p class="made">Made by CounterWait · counterwait.app</p>
+    </div>
+    <div class="code">
+      <svg class="qr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" shape-rendering="crispEdges" role="img" aria-label="QR code that opens counterwait.app"><path fill="#2B1E4A" d="M4 4h7v1h-7zM12 4h5v1h-5zM18 4h1v1h-1zM22 4h7v1h-7zM4 5h1v1h-1zM10 5h1v1h-1zM12 5h1v1h-1zM15 5h1v1h-1zM17 5h2v1h-2zM20 5h1v1h-1zM22 5h1v1h-1zM28 5h1v1h-1zM4 6h1v1h-1zM6 6h3v1h-3zM10 6h1v1h-1zM12 6h2v1h-2zM15 6h1v1h-1zM17 6h4v1h-4zM22 6h1v1h-1zM24 6h3v1h-3zM28 6h1v1h-1zM4 7h1v1h-1zM6 7h3v1h-3zM10 7h1v1h-1zM14 7h4v1h-4zM20 7h1v1h-1zM22 7h1v1h-1zM24 7h3v1h-3zM28 7h1v1h-1zM4 8h1v1h-1zM6 8h3v1h-3zM10 8h1v1h-1zM12 8h1v1h-1zM14 8h3v1h-3zM20 8h1v1h-1zM22 8h1v1h-1zM24 8h3v1h-3zM28 8h1v1h-1zM4 9h1v1h-1zM10 9h1v1h-1zM13 9h1v1h-1zM18 9h1v1h-1zM22 9h1v1h-1zM28 9h1v1h-1zM4 10h7v1h-7zM12 10h1v1h-1zM14 10h1v1h-1zM16 10h1v1h-1zM18 10h1v1h-1zM20 10h1v1h-1zM22 10h7v1h-7zM14 11h7v1h-7zM4 12h1v1h-1zM7 12h7v1h-7zM19 12h1v1h-1zM21 12h1v1h-1zM24 12h1v1h-1zM26 12h3v1h-3zM4 13h1v1h-1zM6 13h1v1h-1zM8 13h1v1h-1zM12 13h1v1h-1zM14 13h2v1h-2zM17 13h3v1h-3zM23 13h5v1h-5zM5 14h3v1h-3zM10 14h1v1h-1zM12 14h2v1h-2zM17 14h1v1h-1zM19 14h1v1h-1zM23 14h1v1h-1zM25 14h1v1h-1zM28 14h1v1h-1zM4 15h2v1h-2zM7 15h1v1h-1zM11 15h1v1h-1zM16 15h1v1h-1zM19 15h2v1h-2zM25 15h4v1h-4zM8 16h1v1h-1zM10 16h1v1h-1zM12 16h1v1h-1zM16 16h1v1h-1zM19 16h1v1h-1zM22 16h2v1h-2zM28 16h1v1h-1zM4 17h2v1h-2zM11 17h2v1h-2zM17 17h5v1h-5zM24 17h1v1h-1zM27 17h1v1h-1zM4 18h4v1h-4zM9 18h2v1h-2zM12 18h1v1h-1zM15 18h3v1h-3zM19 18h1v1h-1zM21 18h2v1h-2zM24 18h5v1h-5zM4 19h1v1h-1zM15 19h1v1h-1zM21 19h3v1h-3zM25 19h2v1h-2zM28 19h1v1h-1zM4 20h1v1h-1zM6 20h1v1h-1zM10 20h2v1h-2zM14 20h1v1h-1zM17 20h1v1h-1zM19 20h6v1h-6zM26 20h2v1h-2zM12 21h5v1h-5zM18 21h1v1h-1zM20 21h1v1h-1zM24 21h1v1h-1zM26 21h2v1h-2zM4 22h7v1h-7zM12 22h1v1h-1zM15 22h1v1h-1zM17 22h2v1h-2zM20 22h1v1h-1zM22 22h1v1h-1zM24 22h1v1h-1zM28 22h1v1h-1zM4 23h1v1h-1zM10 23h1v1h-1zM12 23h1v1h-1zM14 23h1v1h-1zM16 23h5v1h-5zM24 23h1v1h-1zM27 23h1v1h-1zM4 24h1v1h-1zM6 24h3v1h-3zM10 24h1v1h-1zM12 24h1v1h-1zM14 24h1v1h-1zM16 24h1v1h-1zM18 24h7v1h-7zM27 24h2v1h-2zM4 25h1v1h-1zM6 25h3v1h-3zM10 25h1v1h-1zM12 25h2v1h-2zM20 25h3v1h-3zM27 25h2v1h-2zM4 26h1v1h-1zM6 26h3v1h-3zM10 26h1v1h-1zM14 26h1v1h-1zM16 26h1v1h-1zM18 26h1v1h-1zM21 26h1v1h-1zM24 26h5v1h-5zM4 27h1v1h-1zM10 27h1v1h-1zM13 27h2v1h-2zM19 27h1v1h-1zM23 27h2v1h-2zM26 27h3v1h-3zM4 28h7v1h-7zM12 28h1v1h-1zM14 28h1v1h-1zM16 28h3v1h-3zM20 28h2v1h-2zM25 28h1v1h-1zM28 28h1v1h-1z"/></svg>
+      counterwait.app<b>Free on iPhone</b>
+    </div>
+  </div>
+</section>
+<div class="print-row"><button class="button" type="button" data-print="chart">Print This Page</button></div>
+
+<section class="sheet" id="wheel" aria-labelledby="wheel-title">
+  <div class="sheet-top">
+    <div>
+      <h2 id="wheel-title">Chore Wheel</h2>
+      <p class="sub">Two wheels: names on top, chores underneath. Turn it each week and everyone moves to the next chore.</p>
+    </div>
+  </div>
+  <div class="wheels grow">
+    <svg class="wheel-chores" viewBox="-262 -262 524 524" role="img" aria-label="Bottom wheel with six blank chore spaces">
+      <circle r="258" fill="none" stroke="#2B1E4A" stroke-width="1.3" stroke-dasharray="6 4"/>
+      <circle r="160" fill="none" stroke="#CFC4D8" stroke-width="1" stroke-dasharray="3 4"/>
+      <g stroke="#CFC4D8" stroke-width="1">
+        <line x1="0" y1="-160" x2="0" y2="-258"/>
+        <line x1="0" y1="-160" x2="0" y2="-258" transform="rotate(60)"/>
+        <line x1="0" y1="-160" x2="0" y2="-258" transform="rotate(120)"/>
+        <line x1="0" y1="-160" x2="0" y2="-258" transform="rotate(180)"/>
+        <line x1="0" y1="-160" x2="0" y2="-258" transform="rotate(240)"/>
+        <line x1="0" y1="-160" x2="0" y2="-258" transform="rotate(300)"/>
+      </g>
+      <g stroke="#5E5470" stroke-width="1">
+        <g transform="rotate(30)"><line x1="-78" y1="-222" x2="78" y2="-222"/><line x1="-62" y1="-186" x2="62" y2="-186"/></g>
+        <g transform="rotate(90)"><line x1="-78" y1="-222" x2="78" y2="-222"/><line x1="-62" y1="-186" x2="62" y2="-186"/></g>
+        <g transform="rotate(150)"><line x1="-78" y1="-222" x2="78" y2="-222"/><line x1="-62" y1="-186" x2="62" y2="-186"/></g>
+        <g transform="rotate(210)"><line x1="-78" y1="-222" x2="78" y2="-222"/><line x1="-62" y1="-186" x2="62" y2="-186"/></g>
+        <g transform="rotate(270)"><line x1="-78" y1="-222" x2="78" y2="-222"/><line x1="-62" y1="-186" x2="62" y2="-186"/></g>
+        <g transform="rotate(330)"><line x1="-78" y1="-222" x2="78" y2="-222"/><line x1="-62" y1="-186" x2="62" y2="-186"/></g>
+      </g>
+      <text y="-20" text-anchor="middle" font-size="15" fill="#5E5470" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">Chores</text>
+      <text y="4" text-anchor="middle" font-size="13" fill="#5E5470" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">(the names wheel covers this circle)</text>
+      <g stroke="#2B1E4A" stroke-width="1.2"><line x1="-7" y1="40" x2="7" y2="40"/><line x1="0" y1="33" x2="0" y2="47"/></g>
+    </svg>
+    <div class="wheel-row">
+      <div>
+        <svg class="wheel-names" viewBox="-162 -162 324 324" role="img" aria-label="Top wheel with six blank name spaces">
+          <circle r="158" fill="none" stroke="#2B1E4A" stroke-width="1.3" stroke-dasharray="6 4"/>
+          <g stroke="#CFC4D8" stroke-width="1">
+            <line x1="0" y1="-12" x2="0" y2="-158"/>
+            <line x1="0" y1="-12" x2="0" y2="-158" transform="rotate(60)"/>
+            <line x1="0" y1="-12" x2="0" y2="-158" transform="rotate(120)"/>
+            <line x1="0" y1="-12" x2="0" y2="-158" transform="rotate(180)"/>
+            <line x1="0" y1="-12" x2="0" y2="-158" transform="rotate(240)"/>
+            <line x1="0" y1="-12" x2="0" y2="-158" transform="rotate(300)"/>
+          </g>
+          <g stroke="#5E5470" stroke-width="1">
+            <g transform="rotate(30)"><line x1="-48" y1="-112" x2="48" y2="-112"/></g>
+            <g transform="rotate(90)"><line x1="-48" y1="-112" x2="48" y2="-112"/></g>
+            <g transform="rotate(150)"><line x1="-48" y1="-112" x2="48" y2="-112"/></g>
+            <g transform="rotate(210)"><line x1="-48" y1="-112" x2="48" y2="-112"/></g>
+            <g transform="rotate(270)"><line x1="-48" y1="-112" x2="48" y2="-112"/></g>
+            <g transform="rotate(330)"><line x1="-48" y1="-112" x2="48" y2="-112"/></g>
+          </g>
+          <circle r="10" fill="none" stroke="#2B1E4A" stroke-width="1.2"/>
+          <g stroke="#2B1E4A" stroke-width="1.2"><line x1="-5" y1="0" x2="5" y2="0"/><line x1="0" y1="-5" x2="0" y2="5"/></g>
+        </svg>
+        <p class="wheel-label">Names (top wheel)</p>
+      </div>
+      <div class="how">
+        <strong>How to put it together</strong>
+        <ol>
+          <li>Write a chore in each space on the big wheel and a name in each space on the small wheel. Leave extra spaces blank, or write "Free".</li>
+          <li>Cut out both wheels along the dashed lines.</li>
+          <li>Lay the names wheel on top, centered, and push a paper fastener through both centers.</li>
+          <li>Each week, turn the top wheel one space. Everyone moves to the next chore.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+  <div class="band">
+    <img class="logo" src="icon.svg" alt="CounterWait logo" width="58" height="58">
+    <div class="pitch">
+      <strong>Tired of keeping score? CounterWait does it for you.</strong>
+      <p>Kids earn screen time with chores and exercise. Locked apps open once they've earned the minutes.</p>
+      <p class="made">Made by CounterWait · counterwait.app</p>
+    </div>
+    <div class="code">
+      <svg class="qr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" shape-rendering="crispEdges" role="img" aria-label="QR code that opens counterwait.app"><path fill="#2B1E4A" d="M4 4h7v1h-7zM12 4h5v1h-5zM18 4h1v1h-1zM22 4h7v1h-7zM4 5h1v1h-1zM10 5h1v1h-1zM12 5h1v1h-1zM15 5h1v1h-1zM17 5h2v1h-2zM20 5h1v1h-1zM22 5h1v1h-1zM28 5h1v1h-1zM4 6h1v1h-1zM6 6h3v1h-3zM10 6h1v1h-1zM12 6h2v1h-2zM15 6h1v1h-1zM17 6h4v1h-4zM22 6h1v1h-1zM24 6h3v1h-3zM28 6h1v1h-1zM4 7h1v1h-1zM6 7h3v1h-3zM10 7h1v1h-1zM14 7h4v1h-4zM20 7h1v1h-1zM22 7h1v1h-1zM24 7h3v1h-3zM28 7h1v1h-1zM4 8h1v1h-1zM6 8h3v1h-3zM10 8h1v1h-1zM12 8h1v1h-1zM14 8h3v1h-3zM20 8h1v1h-1zM22 8h1v1h-1zM24 8h3v1h-3zM28 8h1v1h-1zM4 9h1v1h-1zM10 9h1v1h-1zM13 9h1v1h-1zM18 9h1v1h-1zM22 9h1v1h-1zM28 9h1v1h-1zM4 10h7v1h-7zM12 10h1v1h-1zM14 10h1v1h-1zM16 10h1v1h-1zM18 10h1v1h-1zM20 10h1v1h-1zM22 10h7v1h-7zM14 11h7v1h-7zM4 12h1v1h-1zM7 12h7v1h-7zM19 12h1v1h-1zM21 12h1v1h-1zM24 12h1v1h-1zM26 12h3v1h-3zM4 13h1v1h-1zM6 13h1v1h-1zM8 13h1v1h-1zM12 13h1v1h-1zM14 13h2v1h-2zM17 13h3v1h-3zM23 13h5v1h-5zM5 14h3v1h-3zM10 14h1v1h-1zM12 14h2v1h-2zM17 14h1v1h-1zM19 14h1v1h-1zM23 14h1v1h-1zM25 14h1v1h-1zM28 14h1v1h-1zM4 15h2v1h-2zM7 15h1v1h-1zM11 15h1v1h-1zM16 15h1v1h-1zM19 15h2v1h-2zM25 15h4v1h-4zM8 16h1v1h-1zM10 16h1v1h-1zM12 16h1v1h-1zM16 16h1v1h-1zM19 16h1v1h-1zM22 16h2v1h-2zM28 16h1v1h-1zM4 17h2v1h-2zM11 17h2v1h-2zM17 17h5v1h-5zM24 17h1v1h-1zM27 17h1v1h-1zM4 18h4v1h-4zM9 18h2v1h-2zM12 18h1v1h-1zM15 18h3v1h-3zM19 18h1v1h-1zM21 18h2v1h-2zM24 18h5v1h-5zM4 19h1v1h-1zM15 19h1v1h-1zM21 19h3v1h-3zM25 19h2v1h-2zM28 19h1v1h-1zM4 20h1v1h-1zM6 20h1v1h-1zM10 20h2v1h-2zM14 20h1v1h-1zM17 20h1v1h-1zM19 20h6v1h-6zM26 20h2v1h-2zM12 21h5v1h-5zM18 21h1v1h-1zM20 21h1v1h-1zM24 21h1v1h-1zM26 21h2v1h-2zM4 22h7v1h-7zM12 22h1v1h-1zM15 22h1v1h-1zM17 22h2v1h-2zM20 22h1v1h-1zM22 22h1v1h-1zM24 22h1v1h-1zM28 22h1v1h-1zM4 23h1v1h-1zM10 23h1v1h-1zM12 23h1v1h-1zM14 23h1v1h-1zM16 23h5v1h-5zM24 23h1v1h-1zM27 23h1v1h-1zM4 24h1v1h-1zM6 24h3v1h-3zM10 24h1v1h-1zM12 24h1v1h-1zM14 24h1v1h-1zM16 24h1v1h-1zM18 24h7v1h-7zM27 24h2v1h-2zM4 25h1v1h-1zM6 25h3v1h-3zM10 25h1v1h-1zM12 25h2v1h-2zM20 25h3v1h-3zM27 25h2v1h-2zM4 26h1v1h-1zM6 26h3v1h-3zM10 26h1v1h-1zM14 26h1v1h-1zM16 26h1v1h-1zM18 26h1v1h-1zM21 26h1v1h-1zM24 26h5v1h-5zM4 27h1v1h-1zM10 27h1v1h-1zM13 27h2v1h-2zM19 27h1v1h-1zM23 27h2v1h-2zM26 27h3v1h-3zM4 28h7v1h-7zM12 28h1v1h-1zM14 28h1v1h-1zM16 28h3v1h-3zM20 28h2v1h-2zM25 28h1v1h-1zM28 28h1v1h-1z"/></svg>
+      counterwait.app<b>Free on iPhone</b>
+    </div>
+  </div>
+</section>
+<div class="print-row"><button class="button" type="button" data-print="wheel">Print This Page</button></div>
+
+<section class="sheet" id="rules" aria-labelledby="rules-title">
+  <div class="sheet-top">
+    <div>
+      <h2 id="rules-title">Family Phone Rules</h2>
+      <p class="sub">Tick the ones you agree on. Cross out any that don't fit, and add your own.</p>
+    </div>
+    <p>Starting <span class="fill">&nbsp;</span></p>
+  </div>
+  <div class="grow">
+  <ul class="rules">
+    <li><span class="box" aria-hidden="true"></span>Phones charge outside bedrooms at night.</li>
+    <li><span class="box" aria-hidden="true"></span>No phones at meals.</li>
+    <li><span class="box" aria-hidden="true"></span>Homework and chores come before screens.</li>
+    <li><span class="box" aria-hidden="true"></span>Ask before downloading a new app.</li>
+    <li><span class="box" aria-hidden="true"></span>Ask before sharing a photo of someone else.</li>
+    <li><span class="box" aria-hidden="true"></span>If something online feels wrong, tell a parent or guardian. You won't be in trouble for telling.</li>
+    <li><span class="box" aria-hidden="true"></span>The driver doesn't use a phone while driving.</li>
+    <li><span class="box" aria-hidden="true"></span>Grown-ups follow these rules too.</li>
+    <li class="blank"><span class="box" aria-hidden="true"></span></li>
+    <li class="blank"><span class="box" aria-hidden="true"></span></li>
+    <li class="blank"><span class="box" aria-hidden="true"></span></li>
+    <li class="blank"><span class="box" aria-hidden="true"></span></li>
+  </ul>
+  <p class="signs-label">We agree. Signed:</p>
+  <div class="signs"><div></div><div></div><div></div><div></div></div>
+  </div>
+  <div class="band">
+    <img class="logo" src="icon.svg" alt="CounterWait logo" width="58" height="58">
+    <div class="pitch">
+      <strong>Tired of keeping score? CounterWait does it for you.</strong>
+      <p>Kids earn screen time with chores and exercise. Locked apps open once they've earned the minutes.</p>
+      <p class="made">Made by CounterWait · counterwait.app</p>
+    </div>
+    <div class="code">
+      <svg class="qr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" shape-rendering="crispEdges" role="img" aria-label="QR code that opens counterwait.app"><path fill="#2B1E4A" d="M4 4h7v1h-7zM12 4h5v1h-5zM18 4h1v1h-1zM22 4h7v1h-7zM4 5h1v1h-1zM10 5h1v1h-1zM12 5h1v1h-1zM15 5h1v1h-1zM17 5h2v1h-2zM20 5h1v1h-1zM22 5h1v1h-1zM28 5h1v1h-1zM4 6h1v1h-1zM6 6h3v1h-3zM10 6h1v1h-1zM12 6h2v1h-2zM15 6h1v1h-1zM17 6h4v1h-4zM22 6h1v1h-1zM24 6h3v1h-3zM28 6h1v1h-1zM4 7h1v1h-1zM6 7h3v1h-3zM10 7h1v1h-1zM14 7h4v1h-4zM20 7h1v1h-1zM22 7h1v1h-1zM24 7h3v1h-3zM28 7h1v1h-1zM4 8h1v1h-1zM6 8h3v1h-3zM10 8h1v1h-1zM12 8h1v1h-1zM14 8h3v1h-3zM20 8h1v1h-1zM22 8h1v1h-1zM24 8h3v1h-3zM28 8h1v1h-1zM4 9h1v1h-1zM10 9h1v1h-1zM13 9h1v1h-1zM18 9h1v1h-1zM22 9h1v1h-1zM28 9h1v1h-1zM4 10h7v1h-7zM12 10h1v1h-1zM14 10h1v1h-1zM16 10h1v1h-1zM18 10h1v1h-1zM20 10h1v1h-1zM22 10h7v1h-7zM14 11h7v1h-7zM4 12h1v1h-1zM7 12h7v1h-7zM19 12h1v1h-1zM21 12h1v1h-1zM24 12h1v1h-1zM26 12h3v1h-3zM4 13h1v1h-1zM6 13h1v1h-1zM8 13h1v1h-1zM12 13h1v1h-1zM14 13h2v1h-2zM17 13h3v1h-3zM23 13h5v1h-5zM5 14h3v1h-3zM10 14h1v1h-1zM12 14h2v1h-2zM17 14h1v1h-1zM19 14h1v1h-1zM23 14h1v1h-1zM25 14h1v1h-1zM28 14h1v1h-1zM4 15h2v1h-2zM7 15h1v1h-1zM11 15h1v1h-1zM16 15h1v1h-1zM19 15h2v1h-2zM25 15h4v1h-4zM8 16h1v1h-1zM10 16h1v1h-1zM12 16h1v1h-1zM16 16h1v1h-1zM19 16h1v1h-1zM22 16h2v1h-2zM28 16h1v1h-1zM4 17h2v1h-2zM11 17h2v1h-2zM17 17h5v1h-5zM24 17h1v1h-1zM27 17h1v1h-1zM4 18h4v1h-4zM9 18h2v1h-2zM12 18h1v1h-1zM15 18h3v1h-3zM19 18h1v1h-1zM21 18h2v1h-2zM24 18h5v1h-5zM4 19h1v1h-1zM15 19h1v1h-1zM21 19h3v1h-3zM25 19h2v1h-2zM28 19h1v1h-1zM4 20h1v1h-1zM6 20h1v1h-1zM10 20h2v1h-2zM14 20h1v1h-1zM17 20h1v1h-1zM19 20h6v1h-6zM26 20h2v1h-2zM12 21h5v1h-5zM18 21h1v1h-1zM20 21h1v1h-1zM24 21h1v1h-1zM26 21h2v1h-2zM4 22h7v1h-7zM12 22h1v1h-1zM15 22h1v1h-1zM17 22h2v1h-2zM20 22h1v1h-1zM22 22h1v1h-1zM24 22h1v1h-1zM28 22h1v1h-1zM4 23h1v1h-1zM10 23h1v1h-1zM12 23h1v1h-1zM14 23h1v1h-1zM16 23h5v1h-5zM24 23h1v1h-1zM27 23h1v1h-1zM4 24h1v1h-1zM6 24h3v1h-3zM10 24h1v1h-1zM12 24h1v1h-1zM14 24h1v1h-1zM16 24h1v1h-1zM18 24h7v1h-7zM27 24h2v1h-2zM4 25h1v1h-1zM6 25h3v1h-3zM10 25h1v1h-1zM12 25h2v1h-2zM20 25h3v1h-3zM27 25h2v1h-2zM4 26h1v1h-1zM6 26h3v1h-3zM10 26h1v1h-1zM14 26h1v1h-1zM16 26h1v1h-1zM18 26h1v1h-1zM21 26h1v1h-1zM24 26h5v1h-5zM4 27h1v1h-1zM10 27h1v1h-1zM13 27h2v1h-2zM19 27h1v1h-1zM23 27h2v1h-2zM26 27h3v1h-3zM4 28h7v1h-7zM12 28h1v1h-1zM14 28h1v1h-1zM16 28h3v1h-3zM20 28h2v1h-2zM25 28h1v1h-1zM28 28h1v1h-1z"/></svg>
+      counterwait.app<b>Free on iPhone</b>
+    </div>
+  </div>
+</section>
+<div class="print-row"><button class="button" type="button" data-print="rules">Print This Page</button></div>
+
+<p class="more">More help: the <a href="guide.html#parents">Guide</a> shows how chore rotation works in the app, and <a href="faq.html">Questions</a> has the short answers.</p>
+</main>
+<footer class="site">
+  <p>CounterWait™ is a trademark of Stepping Stone Elite LLC, which makes it in North Carolina. <a href="faq.html">Questions</a> · <a href="printables.html">Printables</a> · <a href="support.html#contact">Contact</a> · <a href="mailto:support@steppingstonegroup.net">support@steppingstonegroup.net</a></p>
+  <p class="dedication"><em>For my wife and kids, who believed in this first.</em><br><abbr title="Soli Deo Gloria">S.D.G.</abbr></p>
+</footer>
+<script>
+// "Print This Page" prints one sheet; "Print All Three Pages" prints them all.
+document.querySelectorAll('[data-print]').forEach(function (btn) {
+  btn.addEventListener('click', function () {
+    var only = btn.getAttribute('data-print');
+    if (only) document.documentElement.setAttribute('data-only', only);
+    else document.documentElement.removeAttribute('data-only');
+    window.print();
+  });
+});
+window.addEventListener('afterprint', function () { document.documentElement.removeAttribute('data-only'); });
+</script>
+</body>
+</html>
