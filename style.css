@@ -86,3 +86,6 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 .steps ol { padding-left: 22px; margin: 8px 0; }
 .steps li { margin: 10px 0; color: var(--ink-2); }
 .steps li strong { color: var(--ink); }
+.story { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 4px 22px 10px; margin: 28px 0 8px; }
+.story h2 { font-size: 20px; margin: 16px 0 4px; }
+.story p { color: var(--ink-2); margin: 10px 0; }
