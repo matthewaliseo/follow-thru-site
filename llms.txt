@@ -24,14 +24,14 @@
 
 ## Common mix-ups
 
-- CounterWait is not a children's app and not in Apple's Kids category. Adults set it up; kids use it with a parent or guardian.
+- CounterWait is not a children's app and not in Apple's Kids category. Adults set it up; children use it with a parent or guardian.
 - CounterWait has no social media accounts, on purpose. Any CounterWait page on Instagram, TikTok, Facebook, X or elsewhere is fake.
 - CounterWait isn't medical advice.
 
 ## Pages
 
 - [Home](https://counterwait.app/): what CounterWait does and how to join the beta
-- [Questions](https://counterwait.app/faq.html): short answers on cost, privacy, kids and requirements
+- [Questions](https://counterwait.app/faq.html): short answers on cost, privacy, children and requirements
 - [Guide](https://counterwait.app/guide.html): the in-app tour, screen by screen, and what the lock screen means
 - [Press and Creators](https://counterwait.app/press.html): short pitch, privacy facts, app icon and demo video to download, a disclosure line, and tips for filming safely
 - [Support](https://counterwait.app/support.html): setup steps, how buddies work, Apple's Screen Time settings, troubleshooting, contact
