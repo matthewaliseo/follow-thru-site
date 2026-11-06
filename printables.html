@@ -4,13 +4,13 @@
 <meta name="google-site-verification" content="q_kRYdHejVBxCu1iKaauMmyIH3g-S8oT0By9JX5JhJA" />
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Free Printable Chore Chart, Chore Wheel and Face-Off Sheet | CounterWait</title>
-<meta name="description" content="Free printable weekly chore chart, two-wheel chore wheel and family vs family Face-Off challenge sheet. Left blank, one page each, ready to print on Letter or A4.">
+<title>Free Printable Chore Chart and Chore Wheel | CounterWait</title>
+<meta name="description" content="Free printable weekly chore chart and two-wheel chore wheel. Names and chores left blank, one page each, ready to print on Letter or A4.">
 <link rel="icon" href="icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta property="og:site_name" content="CounterWait">
-<meta property="og:title" content="Free Printable Chore Chart, Chore Wheel and Face-Off Sheet">
-<meta property="og:description" content="Free printable weekly chore chart, two-wheel chore wheel and family vs family Face-Off challenge sheet. Left blank, one page each, ready to print.">
+<meta property="og:title" content="Free Printable Chore Chart and Chore Wheel">
+<meta property="og:description" content="Free printable weekly chore chart and two-wheel chore wheel. Names and chores left blank, one page each, ready to print.">
 <meta property="og:image" content="https://counterwait.app/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -73,31 +73,12 @@
 .band .code .scan { display: block; font-size: 13px; font-weight: 700; margin-bottom: 2px; }
 .band .code b { display: block; font-size: 12px; }
 
-/* Face-Off challenge sheet */
-.fair { font-size: 14px; margin: 0 0 12px; }
-.sheet .fill.short { min-width: 4em; }
-.sheet .fill.team { min-width: 7em; font-weight: 400; }
-.faceoff { width: 100%; min-width: 0; border-collapse: collapse; table-layout: fixed; font-size: 13px; margin: 0 0 14px; }
-.faceoff th, .faceoff td { border: 1px solid var(--p-line); padding: 0; text-align: center; vertical-align: middle; }
-.faceoff th { font-weight: 700; padding: 6px 4px; color: var(--p-ink); }
-.faceoff th small { display: block; font-weight: 400; font-size: 11px; color: var(--p-ink-2); }
-.faceoff th.l { text-align: left; padding-left: 8px; }
-.faceoff col.name { width: 40%; }
-.faceoff td { height: 34px; }
-.faceoff thead th { border-bottom: 1.5px solid var(--p-ink); }
-.faceoff tfoot th, .faceoff tfoot td { border-top: 1.5px solid var(--p-ink); background: #FDEBE2; height: 38px; }
-.together { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px 18px; font-size: 16px; margin: 4px 0 10px; padding: 10px; border: 1.5px solid var(--p-accent); border-radius: 10px; }
-.sheet .sub.small { font-size: 13px; text-align: center; }
-
 @media (max-width: 520px) {
   .sheet { padding: 18px 12px 14px; }
   .sheet h2 { font-size: 22px; }
   .chart { font-size: 11px; }
   .chart col.name { width: 19%; } .chart col.chore { width: 23%; }
   .chart th.l { padding-left: 4px; }
-  .faceoff { font-size: 11px; }
-  .faceoff th small { font-size: 10px; }
-  .faceoff th.l { padding-left: 4px; }
   .box { width: 12px; height: 12px; }
   .band { flex-wrap: wrap; }
   .band .logo { width: 56px; height: 56px; border-radius: 13px; }
@@ -134,18 +115,11 @@
   .band .code b { font-size: 11pt; }
   .chart { font-size: 11pt; }
   .chart td { height: 0.5in; }
-  .faceoff { font-size: 11pt; margin-bottom: 0.12in; }
-  .faceoff th small { font-size: 8.5pt; }
-  .faceoff td { height: 0.3in; }
-  .faceoff tfoot th, .faceoff tfoot td { height: 0.34in; }
-  .faceoff th { padding: 4px; }
-  .fair { font-size: 11pt; margin-bottom: 0.1in; }
-  .together { font-size: 13pt; }
   .wheel-chores { width: 3.8in; }
   .wheel-names { width: 2.35in; }
   /* "Print This Page" on one sheet prints only that sheet. */
   html[data-only] .sheet { display: none; }
-  html[data-only="chart"] #chart, html[data-only="wheel"] #wheel, html[data-only="faceoff"] #faceoff { display: flex; break-after: auto; page-break-after: auto; }
+  html[data-only="chart"] #chart, html[data-only="wheel"] #wheel { display: flex; break-after: auto; page-break-after: auto; }
 }
 </style>
 </head>
@@ -163,8 +137,8 @@
 <main>
 <div class="intro">
 <h1>Free Printables</h1>
-<p>A weekly chore chart, a two-wheel chore wheel and a Face-Off challenge sheet. Names and chores are left blank for you to fill in. Each one prints on a single page, Letter or A4.</p>
-<p class="lead-actions"><button class="button" type="button" data-print="">Print All Pages</button></p>
+<p>A weekly chore chart and a two-wheel chore wheel. Names and chores are left blank for you to fill in. Each one prints on a single page, Letter or A4.</p>
+<p class="lead-actions"><button class="button" type="button" data-print="">Print Both Pages</button></p>
 </div>
 
 <section class="sheet" id="chart" aria-labelledby="chart-title">
@@ -294,72 +268,15 @@
 </section>
 <div class="print-row"><button class="button" type="button" data-print="wheel">Print This Page</button></div>
 
-<section class="sheet" id="faceoff" aria-labelledby="faceoff-title">
-  <div class="sheet-top">
-    <div>
-      <h2 id="faceoff-title">Face-Off Challenge</h2>
-      <p class="sub">Family A vs Family B. Write each score, then add up each family. Teams win, not people.</p>
-    </div>
-    <p>Date <span class="fill">&nbsp;</span></p>
-  </div>
-  <div class="grow">
-  <p class="fair"><strong>Fair start:</strong> younger players get a head start of <span class="fill short">&nbsp;</span>, agreed before anyone begins.</p>
-  <table class="faceoff">
-    <colgroup><col class="name"><col span="3"></colgroup>
-    <thead><tr><th class="l" scope="col">Family A <span class="fill team">&nbsp;</span></th><th scope="col">Push Ups<small>reps in 60 s</small></th><th scope="col">Squats<small>reps in 60 s</small></th><th scope="col">Plank<small>seconds held</small></th></tr></thead>
-    <tbody>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-    </tbody>
-    <tfoot><tr><th class="l" scope="row">TEAM TOTAL</th><td></td><td></td><td></td></tr></tfoot>
-  </table>
-  <table class="faceoff">
-    <colgroup><col class="name"><col span="3"></colgroup>
-    <thead><tr><th class="l" scope="col">Family B <span class="fill team">&nbsp;</span></th><th scope="col">Push Ups<small>reps in 60 s</small></th><th scope="col">Squats<small>reps in 60 s</small></th><th scope="col">Plank<small>seconds held</small></th></tr></thead>
-    <tbody>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td></tr>
-    </tbody>
-    <tfoot><tr><th class="l" scope="row">TEAM TOTAL</th><td></td><td></td><td></td></tr></tfoot>
-  </table>
-  <div class="together">
-    <span>Family A total <span class="fill short">&nbsp;</span></span>
-    <span>+ Family B total <span class="fill short">&nbsp;</span></span>
-    <span><strong>= Together</strong> <span class="fill short">&nbsp;</span></span>
-  </div>
-  <p class="sub small">First names or nicknames are plenty. Count out loud, or let Face-Off in the app count with the camera.</p>
-  </div>
-  <div class="band">
-    <img class="logo" src="icon.svg" alt="CounterWait logo" width="84" height="84">
-    <div class="pitch">
-      <strong>Want the camera to count? CounterWait does.</strong>
-      <p>Face-Off counts push ups and squats, and times a plank, for 2 to 4 players on one phone. Nothing is recorded.</p>
-      <p class="made">Made by CounterWait · counterwait.app</p>
-    </div>
-    <div class="code">
-      <span class="scan">Scan to get the app</span>
-      <svg class="qr" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" shape-rendering="crispEdges" role="img" aria-label="QR code that opens counterwait.app"><path fill="#2B1E4A" d="M4 4h7v1h-7zM12 4h5v1h-5zM18 4h1v1h-1zM22 4h7v1h-7zM4 5h1v1h-1zM10 5h1v1h-1zM12 5h1v1h-1zM15 5h1v1h-1zM17 5h2v1h-2zM20 5h1v1h-1zM22 5h1v1h-1zM28 5h1v1h-1zM4 6h1v1h-1zM6 6h3v1h-3zM10 6h1v1h-1zM12 6h2v1h-2zM15 6h1v1h-1zM17 6h4v1h-4zM22 6h1v1h-1zM24 6h3v1h-3zM28 6h1v1h-1zM4 7h1v1h-1zM6 7h3v1h-3zM10 7h1v1h-1zM14 7h4v1h-4zM20 7h1v1h-1zM22 7h1v1h-1zM24 7h3v1h-3zM28 7h1v1h-1zM4 8h1v1h-1zM6 8h3v1h-3zM10 8h1v1h-1zM12 8h1v1h-1zM14 8h3v1h-3zM20 8h1v1h-1zM22 8h1v1h-1zM24 8h3v1h-3zM28 8h1v1h-1zM4 9h1v1h-1zM10 9h1v1h-1zM13 9h1v1h-1zM18 9h1v1h-1zM22 9h1v1h-1zM28 9h1v1h-1zM4 10h7v1h-7zM12 10h1v1h-1zM14 10h1v1h-1zM16 10h1v1h-1zM18 10h1v1h-1zM20 10h1v1h-1zM22 10h7v1h-7zM14 11h7v1h-7zM4 12h1v1h-1zM7 12h7v1h-7zM19 12h1v1h-1zM21 12h1v1h-1zM24 12h1v1h-1zM26 12h3v1h-3zM4 13h1v1h-1zM6 13h1v1h-1zM8 13h1v1h-1zM12 13h1v1h-1zM14 13h2v1h-2zM17 13h3v1h-3zM23 13h5v1h-5zM5 14h3v1h-3zM10 14h1v1h-1zM12 14h2v1h-2zM17 14h1v1h-1zM19 14h1v1h-1zM23 14h1v1h-1zM25 14h1v1h-1zM28 14h1v1h-1zM4 15h2v1h-2zM7 15h1v1h-1zM11 15h1v1h-1zM16 15h1v1h-1zM19 15h2v1h-2zM25 15h4v1h-4zM8 16h1v1h-1zM10 16h1v1h-1zM12 16h1v1h-1zM16 16h1v1h-1zM19 16h1v1h-1zM22 16h2v1h-2zM28 16h1v1h-1zM4 17h2v1h-2zM11 17h2v1h-2zM17 17h5v1h-5zM24 17h1v1h-1zM27 17h1v1h-1zM4 18h4v1h-4zM9 18h2v1h-2zM12 18h1v1h-1zM15 18h3v1h-3zM19 18h1v1h-1zM21 18h2v1h-2zM24 18h5v1h-5zM4 19h1v1h-1zM15 19h1v1h-1zM21 19h3v1h-3zM25 19h2v1h-2zM28 19h1v1h-1zM4 20h1v1h-1zM6 20h1v1h-1zM10 20h2v1h-2zM14 20h1v1h-1zM17 20h1v1h-1zM19 20h6v1h-6zM26 20h2v1h-2zM12 21h5v1h-5zM18 21h1v1h-1zM20 21h1v1h-1zM24 21h1v1h-1zM26 21h2v1h-2zM4 22h7v1h-7zM12 22h1v1h-1zM15 22h1v1h-1zM17 22h2v1h-2zM20 22h1v1h-1zM22 22h1v1h-1zM24 22h1v1h-1zM28 22h1v1h-1zM4 23h1v1h-1zM10 23h1v1h-1zM12 23h1v1h-1zM14 23h1v1h-1zM16 23h5v1h-5zM24 23h1v1h-1zM27 23h1v1h-1zM4 24h1v1h-1zM6 24h3v1h-3zM10 24h1v1h-1zM12 24h1v1h-1zM14 24h1v1h-1zM16 24h1v1h-1zM18 24h7v1h-7zM27 24h2v1h-2zM4 25h1v1h-1zM6 25h3v1h-3zM10 25h1v1h-1zM12 25h2v1h-2zM20 25h3v1h-3zM27 25h2v1h-2zM4 26h1v1h-1zM6 26h3v1h-3zM10 26h1v1h-1zM14 26h1v1h-1zM16 26h1v1h-1zM18 26h1v1h-1zM21 26h1v1h-1zM24 26h5v1h-5zM4 27h1v1h-1zM10 27h1v1h-1zM13 27h2v1h-2zM19 27h1v1h-1zM23 27h2v1h-2zM26 27h3v1h-3zM4 28h7v1h-7zM12 28h1v1h-1zM14 28h1v1h-1zM16 28h3v1h-3zM20 28h2v1h-2zM25 28h1v1h-1zM28 28h1v1h-1z"/></svg>
-      counterwait.app<b>Free on iPhone</b>
-    </div>
-  </div>
-</section>
-<div class="print-row"><button class="button" type="button" data-print="faceoff">Print This Page</button></div>
-
 
 <p class="more">More help: the <a href="guide.html#parents">Guide</a> shows how chore rotation works in the app, and <a href="faq.html">Questions</a> has the short answers.</p>
 </main>
 <footer class="site">
-  <p>CounterWait™ is a trademark of Stepping Stone Elite LLC, which makes it in North Carolina. <a href="faq.html">Questions</a> · <a href="printables.html">Printables</a> · <a href="press.html">Press</a> · <a href="support.html#contact">Contact</a> · <a href="mailto:support@steppingstonegroup.net">support@steppingstonegroup.net</a></p>
+  <p>CounterWait™ is a trademark of Stepping Stone Elite LLC, which makes it in North Carolina. <a href="faq.html">Questions</a> · <a href="printables.html">Printables</a> · <a href="support.html#contact">Contact</a> · <a href="mailto:support@steppingstonegroup.net">support@steppingstonegroup.net</a></p>
   <p class="dedication"><em>For my wife and kids, who believed in this first.</em><br><abbr title="Soli Deo Gloria">S.D.G.</abbr></p>
 </footer>
 <script>
-// "Print This Page" prints one sheet; "Print All Pages" prints them all.
+// "Print This Page" prints one sheet; "Print Both Pages" prints them all.
 document.querySelectorAll('[data-print]').forEach(function (btn) {
   btn.addEventListener('click', function () {
     var only = btn.getAttribute('data-print');
