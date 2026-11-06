@@ -8,8 +8,8 @@
 - Status: public beta on Apple's TestFlight (https://testflight.apple.com/join/twk486Dg), free during the beta, testers 13 or older. The App Store release is coming soon.
 - How time is earned: steps, workouts, Exercise minutes and mindful minutes from Apple Health; Push Ups, Squats, Jumping Jacks and Plank counted by the iPhone camera; chores and tasks that a parent, guardian or buddy approves. A daily cap limits earning.
 - Works with Apple's Screen Time: CounterWait uses Apple's Screen Time to lock apps. Apple's App Limits and Downtime give a fixed daily amount; CounterWait makes time something you earn.
-- Families: a parent or guardian (18 or older) sets rules and approves a child's tasks from their own iPhone, and two parents or guardians can both approve. Locking a child's apps needs Apple Family Sharing. With the child in Family Sharing, the child can't delete CounterWait or turn off its access without the parent or guardian.
-- Accountability buddies: adults can check each other's tasks. On your own phone, removing a locked app or stopping sharing with a buddy waits 15 minutes.
+- Families: CounterWait's child setup is for ages 5 and older. Children's camera workouts should be done with an adult nearby, in a clear space. A parent or guardian (18 or older) sets rules and approves a child's tasks from their own iPhone, and two parents or guardians can both approve. Locking a child's apps needs Apple Family Sharing. With the child in Family Sharing, the child can't delete CounterWait or turn off its access without the parent or guardian.
+- Accountability buddies: adults, like friends, siblings or co-parents, can check each other's tasks. For a teen, a buddy should be a parent, guardian or another adult in their family. On your own phone, removing a locked app or stopping sharing with a buddy waits 15 minutes.
 - Price: free to use, including earning, camera workouts, task approvals and parent/guardian rules. Free plan: 2 people you check, 1 co-parent/guardian, 6 tasks of your own per person. CounterWait Plus ($2.99 a month, $19.99 a year, or $59.99 once for Lifetime, shareable with Apple Family Sharing) raises the limits to 99 people you check and 99 tasks per person, and adds the allowance tracker, the Home Screen and Lock Screen widget, and on an adult's own iPhone, the Flip Phone Mode widget.
 - Money: the allowance tracker records what's owed. CounterWait never holds or moves real money, and a child's iPhone never shows purchases.
 
@@ -26,7 +26,8 @@
 
 - CounterWait is not a children's app and not in Apple's Kids category. Adults set it up; children use it with a parent or guardian.
 - CounterWait has no social media accounts, on purpose. Any CounterWait page on Instagram, TikTok, Facebook, X or elsewhere is fake.
-- CounterWait isn't medical advice.
+- CounterWait isn't medical advice. Anyone who has had an eating disorder, or for whom exercise feels compulsive, can set exercise earning to 0 and earn with tasks.
+- In a crisis, call or text 988 (US) or your local emergency number. Phone and Emergency SOS never lock.
 
 ## Pages
 
