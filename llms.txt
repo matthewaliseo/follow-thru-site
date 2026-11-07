@@ -9,7 +9,7 @@
 - How time is earned: steps, workouts, Exercise minutes and mindful minutes from Apple Health; Push Ups, Squats, Jumping Jacks and Plank counted by the iPhone camera; chores and tasks that a parent, guardian or buddy approves. A daily cap limits earning.
 - Works with Apple's Screen Time: CounterWait uses Apple's Screen Time to lock apps. Apple's App Limits and Downtime give a fixed daily amount; CounterWait makes time something you earn.
 - Families: CounterWait's child setup is for ages 5 and older. Children's camera workouts should be done with an adult nearby, in a clear space. A parent or guardian (18 or older) sets rules and approves a child's tasks from their own iPhone, and two parents or guardians can both approve. Locking a child's apps needs Apple Family Sharing. With the child in Family Sharing, the child can't delete CounterWait or turn off its access without the parent or guardian.
-- Accountability buddies: adults, like friends, siblings or co-parents, can check each other's tasks. For a teen, a buddy should be a parent, guardian or another adult in their family. On your own phone, removing a locked app or stopping sharing with a buddy waits 15 minutes.
+- Accountability buddies: adults, like friends, siblings or co-parents, can check each other's tasks. For a teen, a friend their own age is fine; an adult who checks a teen should be family. On your own phone, removing a locked app, adding to Apps That Never Lock, Reset App or stopping sharing with a buddy waits 15 minutes.
 - Price: free to use, including earning, camera workouts, task approvals and parent/guardian rules. Free plan: 2 people you check, 1 co-parent/guardian, 6 tasks of your own per person. CounterWait Plus ($2.99 a month, $19.99 a year, or $59.99 once for Lifetime, shareable with Apple Family Sharing) raises the limits to 99 people you check and 99 tasks per person, and adds the allowance tracker, the Home Screen and Lock Screen widget, and on an adult's own iPhone, the Flip Phone Mode widget.
 - Money: the allowance tracker records what's owed. CounterWait never holds or moves real money, and a child's iPhone never shows purchases.
 
@@ -20,7 +20,7 @@
 - One exception: when someone opens a buddy request link or scans a "Scan to Approve My Tasks" QR code, their iPhone leaves the invite in the app's public iCloud database for up to 7 days, with an iCloud user ID Apple assigns for this app (not a name, phone number or email). So the App Store privacy label lists one item: User ID, used for app functionality, linked to the user, not used for tracking. "Collects no data at all" is not accurate; "collects only a User ID for buddy invites, never for tracking or ads" is.
 - Camera rep counting runs on the iPhone. Frames are analyzed and discarded; workouts are never recorded, saved or sent.
 - Apple Health data is read only, stays on the iPhone and is never written, sold or used for marketing. People you link with see minutes earned, not steps or workouts.
-- Settings > Delete all my data erases everything in one step.
+- Settings > Delete All My Data erases everything in one step.
 
 ## Common mix-ups
 
