@@ -50,8 +50,12 @@
 <body>
 <main>
   <section class="hero">
-    <img src="icon.svg" alt="CounterWait app icon">
-    <h1>CounterWait<sup class="tm">™</sup></h1>
+    <figure class="scene">
+      <video class="scene-video" autoplay muted loop playsinline preload="auto" poster="opening-scene-poster.jpg" width="540" height="960" aria-hidden="true">
+        <source src="opening-scene.mp4" type="video/mp4">
+      </video>
+    </figure>
+    <h1 class="visually-hidden">CounterWait<sup class="tm">™</sup></h1>
     <p class="tagline">Get your wait up.</p>
     <p>Earn your time. Lock the apps you choose and earn minutes back with exercise and tasks, on your own, as a family, or with an accountability buddy.</p>
     <figure class="demo">
@@ -116,5 +120,15 @@
   <p class="dedication"><em>For my wife and kids, who believed in this first.</em><br><abbr title="Soli Deo Gloria">S.D.G.</abbr></p>
 </footer>
 <script src="share.js"></script>
+<script>
+(function () {
+  var v = document.querySelector('.scene-video');
+  if (!v || !window.matchMedia) return;
+  var still = window.matchMedia('(prefers-reduced-motion: reduce)');
+  function apply() { if (still.matches) { v.removeAttribute('autoplay'); v.pause(); } else { v.play().catch(function () {}); } }
+  apply();
+  if (still.addEventListener) still.addEventListener('change', apply);
+})();
+</script>
 </body>
 </html>
