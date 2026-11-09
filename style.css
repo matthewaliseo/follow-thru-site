@@ -4,8 +4,9 @@
   --ink: #2B1E4A;
   --ink-2: #5E5470;
   --line: #EADFD6;
-  --accent: #C94E22;
+  --accent: #BA471E;
   --accent-bg: #FDEBE2;
+  --shadow: 0 1px 2px rgba(43,30,74,.06), 0 8px 24px rgba(43,30,74,.10);
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -16,6 +17,7 @@
     --line: #382E55;
     --accent: #FF8A5C;
     --accent-bg: #2E2246;
+    --shadow: inset 0 1px 0 rgba(255,255,255,.06), 0 1px 2px rgba(0,0,0,.30), 0 8px 24px rgba(0,0,0,.36);
   }
 }
 * { box-sizing: border-box; }
@@ -29,12 +31,20 @@ body {
 a { color: var(--accent); }
 header.site, main, footer.site { max-width: 760px; margin: 0 auto; padding: 0 16px; }
 header.site {
-  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
-  gap: 8px 16px; padding-top: 20px; padding-bottom: 20px; border-bottom: 1px solid var(--line);
+  display: flex; flex-wrap: wrap; align-items: center;
+  gap: 10px 16px; padding-top: 16px; padding-bottom: 14px; border-bottom: 1px solid var(--line);
+}
+header.site .brand { margin-right: auto; }
+/* Phones: name and Join on one line, the three links on the next. */
+header.site nav { order: 3; flex-basis: 100%; }
+.button.nav-cta { font-size: 15px; padding: 7px 14px; border-radius: 10px; white-space: nowrap; }
+@media (min-width: 640px) {
+  header.site { padding-top: 20px; padding-bottom: 20px; }
+  header.site nav { order: 0; flex-basis: auto; }
 }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; font-size: 19px; color: var(--ink); text-decoration: none; }
 .brand img { border-radius: 8px; }
-nav { display: flex; flex-wrap: wrap; gap: 6px 18px; }
+nav { display: flex; flex-wrap: wrap; gap: 6px 22px; }
 nav a { white-space: nowrap; }
 nav a { color: var(--ink-2); text-decoration: none; font-weight: 600; }
 nav a[aria-current="page"], nav a:hover { color: var(--accent); }
@@ -51,6 +61,7 @@ tr:last-child td { border-bottom: 0; }
 th { font-weight: 700; }
 li { margin: 6px 0; }
 footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bottom: 32px; color: var(--ink-2); font-size: 15px; }
+footer.site a[aria-current="page"] { color: var(--ink); text-decoration: none; font-weight: 600; }
 .hero { text-align: center; padding: 40px 0 8px; }
 .hero img { width: 120px; height: 120px; border-radius: 27px; box-shadow: 0 6px 24px rgba(43, 30, 74, 0.16); }
 /* The opening scene: the first thing seen, the same art as the app's opening screen. */
@@ -58,15 +69,40 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 .hero .scene video { display: block; width: 100%; height: auto; aspect-ratio: 9 / 16; border-radius: 28px; background: #0a1220; box-shadow: 0 10px 34px rgba(43, 30, 74, 0.22); }
 .visually-hidden { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
 .hero h1 { margin-top: 20px; }
-.hero .tagline { color: var(--accent, #F26B3A); font-weight: 700; font-size: 22px; margin-top: 2px; }
+/* Navy, not orange: orange means tappable. */
+.hero .tagline { color: var(--ink); font-weight: 700; font-size: 22px; margin-top: 2px; }
 .hero p { color: var(--ink-2); font-size: 19px; margin: 6px auto 0; max-width: 520px; }
+.hero .cta { margin-top: 20px; }
+.hero p.fine { font-size: 15px; margin-top: 10px; }
+@media (max-width: 959px) {
+  /* On phones the header already shows the name, so the H1 is for screen readers only. */
+  .hero .hero-title { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+}
+.demo-row { margin-top: 12px; }
+.demo-col { text-align: center; }
+.text-link { background: none; border: 0; padding: 0; font: inherit; font-weight: 600; color: var(--accent); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.demo-col .share-link { margin: 12px 0 0; }
+@media (min-width: 960px) {
+  body.home header.site, body.home main, body.home footer.site { max-width: 1040px; }
+  .home main > :not(.hero):not(.demo-row) { max-width: 760px; margin-left: auto; margin-right: auto; }
+  .home .hero { display: grid; grid-template-columns: 360px 1fr; gap: 64px; align-items: center; text-align: left; padding-top: 48px; }
+  .home .hero .scene { margin: 0; }
+  .home .hero h1 { font-size: 56px; line-height: 1.1; margin: 0 0 6px; }
+  .home .hero .tagline { font-size: 28px; margin: 0; }
+  .home .hero p { margin-left: 0; font-size: 21px; }
+  .home .hero p.fine { font-size: 15px; }
+  .demo-row { display: grid; grid-template-columns: 300px 1fr; gap: 48px; align-items: start; margin-top: 56px; }
+  .demo-row .demo { margin-top: 0; }
+  .demo-row .steps { margin: 0; }
+}
 .demo { margin: 22px auto 0; }
 .demo video { display: block; width: 100%; max-width: 270px; height: auto; margin: 0 auto; border-radius: 18px; background: #2B1E4A; box-shadow: 0 6px 24px rgba(43, 30, 74, 0.16); }
 .demo figcaption { color: var(--ink-2); font-size: 15px; margin-top: 8px; }
 .button.share { border: 0; cursor: pointer; font-family: inherit; margin-top: 14px; }
+.button:focus-visible, .text-link:focus-visible { outline: 3px solid var(--ink); outline-offset: 3px; }
 .share-status { color: var(--ink-2); font-size: 15px; min-height: 1em; }
 .links { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-top: 36px; }
-.links a { display: block; background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 16px 18px; text-decoration: none; color: var(--ink); }
+.links a { display: block; background: var(--card); box-shadow: var(--shadow); border-radius: 14px; padding: 16px 18px; text-decoration: none; color: var(--ink); }
 .links a strong { display: block; color: var(--accent); }
 .links a span { color: var(--ink-2); font-size: 15px; }
 
@@ -75,7 +111,7 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 
 /* The ™ after the name, small so it doesn't crowd it. */
 .tm { font-size: 0.45em; vertical-align: super; line-height: 0; font-weight: 400; }
-.beta { text-align: center; margin-top: 28px; padding: 20px; background: var(--card); border: 1px solid var(--line); border-radius: 14px; }
+.beta { text-align: center; margin-top: 28px; padding: 20px; background: var(--card); box-shadow: var(--shadow); border-radius: 14px; }
 .beta p { margin: 0 0 12px; }
 .button { display: inline-block; background: var(--accent); color: #FFFFFF; font-weight: 700; font-size: 18px; text-decoration: none; padding: 12px 28px; border-radius: 12px; }
 .button:hover { filter: brightness(1.06); }
@@ -85,11 +121,28 @@ footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bott
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .button { color: #17112A; }
 }
-.steps { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 4px 22px 10px; margin: 28px 0 8px; }
+.steps { background: var(--card); box-shadow: var(--shadow); border-radius: 14px; padding: 4px 22px 10px; margin: 28px 0 8px; }
 .steps h2 { font-size: 20px; margin: 16px 0 4px; }
 .steps ol, .steps ul { padding-left: 22px; margin: 8px 0; }
 .steps li { margin: 10px 0; color: var(--ink-2); }
 .steps li strong { color: var(--ink); }
-.story { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 4px 22px 10px; margin: 28px 0 8px; }
+.story { background: var(--card); box-shadow: var(--shadow); border-radius: 14px; padding: 4px 22px 10px; margin: 28px 0 8px; }
 .story h2 { font-size: 20px; margin: 16px 0 4px; }
 .story p { color: var(--ink-2); margin: 10px 0; }
+
+/* Guide: one real app screen per section, beside its list on wider screens. */
+.shot { margin: 18px auto 8px; width: 260px; max-width: 100%; }
+.shot img { display: block; width: 100%; height: auto; border-radius: 30px; background: var(--card); box-shadow: var(--shadow); }
+@media (min-width: 700px) {
+  .shot-row { display: grid; grid-template-columns: 1fr 260px; gap: 32px; align-items: start; }
+  .shot-row .shot { margin: 8px 0 12px; }
+}
+
+/* Questions: answers fold away under their question. */
+details.qa { background: var(--card); box-shadow: var(--shadow); border-radius: 14px; margin: 10px 0; padding: 0 18px; }
+details.qa summary { cursor: pointer; padding: 14px 0; list-style-position: outside; margin-left: 18px; }
+details.qa summary h3 { display: inline; font-size: 18px; margin: 0; }
+details.qa[open] summary { border-bottom: 1px solid var(--line); }
+details.qa summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
+details.qa > p { margin: 12px 0; }
+.to-top { font-size: 15px; margin: 8px 0 0; text-align: right; }
