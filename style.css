@@ -146,3 +146,7 @@ details.qa[open] summary { border-bottom: 1px solid var(--line); }
 details.qa summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
 details.qa > p { margin: 12px 0; }
 .to-top { font-size: 15px; margin: 8px 0 0; text-align: right; }
+
+.making-of { margin: 24px auto 0; }
+.making-of video { display: block; width: 100%; max-width: 760px; height: auto; margin: 0 auto; border-radius: 14px; background: #2B1E4A; box-shadow: 0 6px 24px rgba(43, 30, 74, 0.16); }
+.making-of figcaption { color: var(--ink-2); font-size: 15px; margin-top: 8px; text-align: center; }
