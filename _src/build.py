@@ -50,7 +50,7 @@ TEMPLATE = """<!doctype html>
 {body}
 </main>
 <footer class="site">
-  <p>CounterWait™ is a trademark of Stepping Stone Elite LLC, which makes it in North Carolina. <a href="mailto:support@steppingstonegroup.net">support@steppingstonegroup.net</a></p>
+  <p>CounterWait™ is a trademark of Stepping Stone Elite LLC, which makes it in North Carolina. <a href="mailto:support@counterwait.app">support@counterwait.app</a></p>
   <p class="dedication"><em>For my wife and kids, who believed in this first.</em><br><abbr title="Soli Deo Gloria">S.D.G.</abbr></p>
 </footer>
 </body>

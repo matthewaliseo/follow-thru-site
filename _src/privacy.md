@@ -2,7 +2,7 @@
 
 <p class="meta">Effective October 13, 2026</p>
 
-CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net) or (980) 330-1415.
+CounterWait is an iPhone app made by Stepping Stone Elite LLC ("we", "us"). You can reach us at [support@counterwait.app](mailto:support@counterwait.app) or (980) 330-1415.
 
 <div class="callout" markdown="1">
 **The short version:** we don't run servers, we don't use analytics or advertising tools, we don't sell or share your information, and we don't track you across apps or websites. Most of what you do in CounterWait stays on your iPhone, with a backup in your own private iCloud so it can come back if you delete the app. When you link with family or an accountability buddy, the information you share moves between your phones through Apple's iCloud, in the iCloud account of the person who set up the group. We can't see it. The only information that reaches us is any email you send us. The app sends us nothing else, except that when someone scans your "Scan to Approve My Tasks" code, their iPhone leaves its buddy invite in our app's public iCloud database for a short time (see People you invite). Test versions before October 2026 could save a friend's share code or a story in our app's public iCloud database. We delete those records before the app's public release.
@@ -61,7 +61,7 @@ On a child's phone:
 - Photos in the family group are deleted from iCloud after 90 days, and the child's tasks and activity after 12 months. Totals, like minutes, the allowance tracker and all-time counts, stay until the parent or guardian removes the child or deletes the group.
 - Before a child joins, the parent or guardian's phone shows what the child's phone will share and asks them to agree. If they don't, the child's phone isn't linked and sends nothing. The date they agreed is kept in the family group.
 
-Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net). Our full contact details are at the end of this policy.
+Parents and guardians can see everything their child shares on their own phone. They can delete their child's information at any time by removing the child from the family group or deleting the group, and they can delete what's on the child's phone with Settings > Delete all my data. Removing the child stops any further sharing. If you have a question about your child's information, contact us at [support@counterwait.app](mailto:support@counterwait.app). Our full contact details are at the end of this policy.
 
 We don't knowingly receive personal information from children under 13. If we learn that a child under 13 has sent us any information, we'll delete it.
 
@@ -96,7 +96,7 @@ CounterWait is made by Stepping Stone Elite LLC. Here's what happens when the ch
 - In CounterWait, open Settings > Delete all my data. It erases the app's information on your iPhone, deletes your iCloud backup and any groups you own (with everything in them), leaves groups you've joined, and deletes share-code records, buddy invites waiting in our public iCloud database, and any stories an earlier version sent, from this iPhone.
 - Deleting the app erases what's on your iPhone, except the share-code history described above, and any buddy invite it left that wasn't deleted yet (email us to remove it). Your iCloud backup stays, so installing again can restore it. Reset App in Settings deletes it too.
 - You can also manage CounterWait's iCloud information in the iPhone Settings app: tap your name, then iCloud, then Manage Account Storage (the wording varies by iOS version).
-- To have a story or share code removed, or for any other request, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net). We'll respond within 30 days.
+- To have a story or share code removed, or for any other request, email [support@counterwait.app](mailto:support@counterwait.app). We'll respond within 30 days.
 
 ## Security
 
@@ -104,11 +104,11 @@ Information in iCloud is protected by Apple's security, including end-to-end enc
 
 ## Your rights
 
-Depending on where you live, you may have the right to know, access, correct or delete personal information, and to appeal a decision. Because we hold almost nothing, most requests can be handled in the app. For anything else, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net). We don't discriminate against anyone for using these rights.
+Depending on where you live, you may have the right to know, access, correct or delete personal information, and to appeal a decision. Because we hold almost nothing, most requests can be handled in the app. For anything else, email [support@counterwait.app](mailto:support@counterwait.app). We don't discriminate against anyone for using these rights.
 
 ## Consumer health data
 
-CounterWait reads steps, workouts, Exercise minutes and mindful minutes from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress, and on a phone a parent or guardian checks, workouts from other apps go to them for approval as described under Apple Health. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [support@steppingstonegroup.net](mailto:support@steppingstonegroup.net).
+CounterWait reads steps, workouts, Exercise minutes and mindful minutes from Apple Health on your iPhone to give you minutes, and counts exercise reps with the camera on your iPhone. These numbers stay on your iPhone, except that the people you link with see your minutes and progress, and on a phone a parent or guardian checks, workouts from other apps go to them for approval as described under Apple Health. We don't receive, sell or share this information. You can stop it at any time in the Health app or by leaving a group. For questions or requests, email [support@counterwait.app](mailto:support@counterwait.app).
 
 ## Where CounterWait is offered
 
@@ -123,4 +123,4 @@ If we change this policy, we'll update the date at the top and tell you in the a
 Stepping Stone Elite LLC<br>
 352 Ovada Ave, Lexington, NC 27295<br>
 (980) 330-1415<br>
-[support@steppingstonegroup.net](mailto:support@steppingstonegroup.net)
+[support@counterwait.app](mailto:support@counterwait.app)
