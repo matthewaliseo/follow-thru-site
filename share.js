@@ -3,7 +3,11 @@ document.querySelectorAll('[data-share-url]').forEach(function (btn) {
   btn.addEventListener('click', function () {
     var url = btn.getAttribute('data-share-url');
     var status = btn.closest('section').querySelector('.share-status');
-    var data = { title: 'CounterWait in 27 Seconds', text: 'Lock the apps you choose and earn the time back with exercise and tasks.', url: url };
+    var data = {
+      title: btn.getAttribute('data-share-title') || 'CounterWait in 27 Seconds',
+      text: btn.getAttribute('data-share-text') || 'Lock the apps you choose and earn the time back with exercise and tasks.',
+      url: url
+    };
     if (navigator.share) {
       navigator.share(data).catch(function () {});
     } else if (navigator.clipboard) {
