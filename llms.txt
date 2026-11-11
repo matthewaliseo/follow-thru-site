@@ -5,7 +5,7 @@
 ## Key facts
 
 - Platform: iPhone, iOS 17 or later. Not on Android or iPad yet (iPad is planned first).
-- Status: public beta on Apple's TestFlight (https://testflight.apple.com/join/twk486Dg), free during the beta, testers 13 or older. The App Store release is coming soon.
+- Status: on the App Store for iPhone (https://apps.apple.com/app/id6818816505), free to download, with optional CounterWait Plus.
 - How time is earned: steps, workouts, Exercise minutes and mindful minutes from Apple Health; Push Ups, Squats, Jumping Jacks and Plank counted by the iPhone camera; chores and tasks that a parent, guardian or buddy approves. A daily cap limits earning.
 - Works with Apple's Screen Time: CounterWait uses Apple's Screen Time to lock apps. Apple's App Limits and Downtime give a fixed daily amount; CounterWait makes time something you earn.
 - Families: CounterWait's child setup is for ages 5 and older. Children's camera workouts should be done with an adult nearby, in a clear space. A parent or guardian (18 or older) sets rules and approves a child's tasks from their own iPhone, and two parents or guardians can both approve. Locking a child's apps needs Apple Family Sharing. With the child in Family Sharing, the child can't delete CounterWait or turn off its access without the parent or guardian.
@@ -31,7 +31,7 @@
 
 ## Pages
 
-- [Home](https://counterwait.app/): what CounterWait does and how to join the beta
+- [Home](https://counterwait.app/): what CounterWait does and where to get it
 - [Questions](https://counterwait.app/faq.html): short answers on cost, privacy, children and requirements
 - [Guide](https://counterwait.app/guide.html): the in-app tour, screen by screen, and what the lock screen means
 - [Press and Creators](https://counterwait.app/press.html): short pitch, privacy facts, app icon and demo video to download, a disclosure line, and tips for filming safely
