@@ -14,7 +14,7 @@ Someone asked you to be their CounterWait buddy. As their buddy, you approve the
 
 **Don't have it yet?** Get CounterWait and set it up, then come back to this page and tap Open CounterWait. Your request goes through on its own.
 
-<p><a class="button" href="https://testflight.apple.com/join/twk486Dg">Get CounterWait</a></p>
+<p><a class="button" href="https://apps.apple.com/app/id6818816505">Get CounterWait</a></p>
 
 </div>
 
