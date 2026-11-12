@@ -1,6 +1,6 @@
 # What's Next
 
-Here's what we're working on after CounterWait launches. We build in the order families need it most, so this list will change as we hear from you.
+CounterWait is on the App Store now. Here's what we're working on next. We build in the order families need it most, so this list will change as we hear from you.
 
 <div class="callout" markdown="1">
 **Plans, not promises.** Nothing here has a release date yet, and something may change or be dropped before it ships. Please choose CounterWait for what it does today. Have an idea? Email [support@counterwait.app](mailto:support@counterwait.app?subject=CounterWait%20idea).
@@ -18,7 +18,7 @@ Here's what we're working on after CounterWait launches. We build in the order f
 
 ## Also planned
 
-**High Knees.** A new camera exercise, counted the same way as Push Ups, Squats and Jumping Jacks.
+**High Knees.** A new camera exercise, counted the same way as push-ups, squats and jumping jacks.
 
 **Your pets, by name.** Add your pets' names in setup, so pet tasks and reminders say "Feed Biscuit" instead of "Feed the dog".
 

@@ -7,7 +7,7 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 </div>
 
 <div class="callout" markdown="1">
-**Need help?** Email [support@counterwait.app](mailto:support@counterwait.app?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact support in the app's Settings.
+**Need help?** Email [support@counterwait.app](mailto:support@counterwait.app?subject=CounterWait%20support). We usually reply within two business days. You can also tap Contact Support in the app's Settings.
 </div>
 
 <div class="callout" markdown="1">
@@ -22,7 +22,7 @@ CounterWait locks the apps you choose until you earn time for them with exercise
 
 **How do I add an accountability buddy?** Choose Accountability Buddies, pick how you'll work together, then send the invite link. To check each other, each person sends the other a link.
 
-**How do I earn time?** Walk or work out (counted from Apple Health), do Push Ups, Squats or Jumping Jacks in front of the camera, or finish tasks. If someone checks your tasks, they can ask for a photo of a finished task, or set a task to always ask for one. A daily cap limits how much you can earn.
+**How do I earn time?** Walk or work out (counted from Apple Health), do push-ups, squats or jumping jacks in front of the camera, or finish tasks. If someone checks your tasks, they can ask for a photo of a finished task, or set a task to always ask for one. A daily cap limits how much you can earn.
 
 **How do I unlock apps?** On Home, spend some of your minutes. The apps lock again when the time is up. Ending early refunds the minutes left.
 
