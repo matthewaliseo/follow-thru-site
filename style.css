@@ -59,6 +59,18 @@ table { border-collapse: collapse; width: 100%; min-width: 560px; font-size: 15p
 th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-bottom: 1px solid var(--line); }
 tr:last-child td { border-bottom: 0; }
 th { font-weight: 700; }
+/* Phones: each row becomes a card, so nothing runs off the screen. */
+@media (max-width: 640px) {
+  .table { overflow-x: visible; }
+  table { min-width: 0; }
+  table thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  table, tbody, tr, td { display: block; width: 100%; }
+  tr { border-bottom: 1px solid var(--line); padding: 6px 0; }
+  tr:last-child { border-bottom: 0; }
+  td { border-bottom: 0; padding: 4px 14px; }
+  td:first-child { font-weight: 700; padding-top: 10px; }
+  td[data-label]::before { content: attr(data-label); display: block; font-size: 13px; font-weight: 600; color: var(--ink-2); margin-top: 6px; }
+}
 li { margin: 6px 0; }
 footer.site { border-top: 1px solid var(--line); padding-top: 16px; padding-bottom: 32px; color: var(--ink-2); font-size: 15px; }
 footer.site a[aria-current="page"] { color: var(--ink); text-decoration: none; font-weight: 600; }
