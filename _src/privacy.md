@@ -121,6 +121,6 @@ If we change this policy, we'll update the date at the top and tell you in the a
 ## Contact
 
 Stepping Stone Elite LLC<br>
-352 Ovada Ave, Lexington, NC 27295<br>
+2901 Scott Futrell Rd #19769 SMB#119799, Charlotte, NC 28228<br>
 (980) 330-1415<br>
 [support@counterwait.app](mailto:support@counterwait.app)
