@@ -162,3 +162,7 @@ details.qa > p { margin: 12px 0; }
 .making-of { margin: 24px auto 0; }
 .making-of video { display: block; width: 100%; max-width: 760px; height: auto; margin: 0 auto; border-radius: 14px; background: #2B1E4A; box-shadow: 0 6px 24px rgba(43, 30, 74, 0.16); }
 .making-of figcaption { color: var(--ink-2); font-size: 15px; margin-top: 8px; text-align: center; }
+
+.people { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 28px 0 8px; }
+.people img { width: 100%; height: auto; border-radius: 14px; box-shadow: var(--shadow); }
+@media (max-width: 520px) { .people { gap: 8px; } .people img { border-radius: 10px; } }
