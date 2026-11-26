@@ -166,3 +166,7 @@ details.qa > p { margin: 12px 0; }
 .people { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 28px 0 8px; }
 .people img { width: 100%; height: auto; border-radius: 14px; box-shadow: var(--shadow); }
 @media (max-width: 520px) { .people { gap: 8px; } .people img { border-radius: 10px; } }
+
+/* The family drawing in Why CounterWait Exists. */
+.family { margin: 8px auto 20px; max-width: 360px; }
+.family img { display: block; width: 100%; height: auto; }
